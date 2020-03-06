@@ -4,7 +4,7 @@
 
 ### Faça o Clone do projeto em sua conta
 
-#### Altere o arquivo README.MD e coloque suas impressões sobre este curso
+#### Altere o arquivo README.MD e coloque suas impressões sobre este curso em UMA NOVA BRANCH iniciada em "gama/"
 
 ##### Faça o commit da sua altetação
 
