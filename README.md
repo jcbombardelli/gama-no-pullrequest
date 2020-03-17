@@ -17,5 +17,5 @@
 ## Abra um PullRequest com suas alterações
 
 O que estou achando do curso ?
-
-Muito interessante!
+Estou gostando muito da forma em que o  curso é apresentado não somente na parte do conteúdo de programação mas também na formação como um profissional completo. 
+Ansioso para as próximas etapas! 
