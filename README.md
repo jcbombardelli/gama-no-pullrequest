@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Ótimo, estou aprendendo muito, e espero aprender mais ainda, para me tornar um ótimo profissional e colocar todo esse conhecimento em pratica.
