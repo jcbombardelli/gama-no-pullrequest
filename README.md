@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Ótimo, estou aprendendo muito, e espero aprender mais ainda, para começar minha carreira como desenvolvedor e colocar todo esse conhecimento em prática.
