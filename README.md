@@ -16,6 +16,7 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+### Minhas impressões sobre o curso
+O que estou achando do curso?
 
-Muito interessante!
+Revisitando comandos git do dia-a-dia e tendo oportunidade de aprender a ensinar este tipo de conteúdo para pessoas que estão começando sua jornada.
