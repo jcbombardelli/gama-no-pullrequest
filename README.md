@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Aproveitando bastante todo conhecimento passado, muitos conceitos que não
+conhecia. Agora é praticar e desbravar essa trilha de conhecemento.
+Obrigado!
