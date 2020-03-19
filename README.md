@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando bastante, otimo a didatica dos professores, de forma que é muito fácil de assimilar o conteudo.
