@@ -18,4 +18,7 @@
 
 O que estou achando do curso ?
 
+Estou gostando bastante, apesar de ter que refazer a tarefa inumeras vezes... Ao menos isso me ajudou a gravar bem os comandos.
+
 Muito interessante!
+
