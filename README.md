@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Início promissor e minhas expectativas estão bem altas agora. Aproveitar este período de quarentena forçada para dedicar aos desafios propostos.
