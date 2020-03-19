@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O **Programa Hiring Coders** possui professores e conteúdos de primeiríssima linha, aliados à uma excelente didática na formação de novos talentos. Clique [AQUI](https://hiringcoders.gama.academy/) para saber mais a respeito!
