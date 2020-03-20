@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Sou mulher, mãe, ja passei por algumas áreas diferentes, vim de RH para o desenvolvimento Front End, passei pela transição de carreira a menos de 2 anos e me identifiquei com muitos dos vídeos e dos conteúdos, estou aprendendo muitas coisas super relevantes, sei que é só o começo, e estou muito feliz por fazer parte desta turma #GamaAcademy.
