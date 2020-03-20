@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso é muito rico em conteúdo diverso, e estou gostando muito de estar aprendendo muitos conceitos e aperfeiçoando os que já conhecia
