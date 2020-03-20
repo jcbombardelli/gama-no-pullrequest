@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso é muito bom, porém tive alguns problemas de diretório que me atrapalhou a acompanhar a aula 100%, no mais, ótimo curso!  
