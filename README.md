@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Simplesmente fascinante até agora. Ansioso por mais conteúdo.
