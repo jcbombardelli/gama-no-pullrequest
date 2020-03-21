@@ -16,6 +16,8 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+__**O que estou achando do curso?**__
 
-Muito interessante!
+Curso muito bem estruturado, com explicações claras e uma boa organização no que tange a progressão de conteúdo.
+
+Outro ponto de destaque interessante são as revisões dos comandos estudados ao final de cada aula.
