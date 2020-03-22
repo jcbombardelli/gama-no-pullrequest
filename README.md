@@ -19,3 +19,9 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+
+O que estou achado do curso?
+
+Gostando. Primeira vez que criou uma branch
+
