@@ -16,6 +16,8 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+## Minhas impressões sobre o Gama Academy - Luiz Furtado
 
-Muito interessante!
+Na primeira semana o foco nos fundamentos é essencial para o bom andamento do curso, principalmente para as pessoas que não vem do mundo da tecnologia.
+
+Os vídeos são bem completos, mas é necessário um esforço por parte do próprio estudante para se aprofundar nos assuntos e ir no detalhe do que esta sendo ensinado. Acho que isso é muito importante, e parte do processo de nos tornar protagonista no nosso caminho de *Lifelong Learners*.
