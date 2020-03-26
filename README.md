@@ -1,4 +1,4 @@
-# Desafio Gama Pullrequest
+﻿# Desafio Gama Pullrequest
 
 ## Faça o FORK deste projeto
 
@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou adorando muito bom 
+está sendo sensacional pra mim to ampliando os
+meus conhecimentos gama academy é show de bola.
