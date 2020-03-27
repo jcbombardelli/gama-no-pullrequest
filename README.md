@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Esto gostando muito do curso, e fico muito ancioso esperando as novas vídeo aulas e assignments.
+Uma dica: seria interessante hospedar os vídeos direto no youtube, como não listado, assim, a performace é muito melhor para nós alunos assistirmos.
