@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Gostei muito do curso, direto ao ponto, abordando os principais conceitos do git e principalmente, fazendo isso na prática. Apesar de já trabalhar com git a um bom tempo, sempre tem algo a acrescentar. Parabéns!
