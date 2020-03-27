@@ -8,6 +8,9 @@
 
 #### Altere o arquivo README.MD e coloque suas impressões sobre este curso
 
+*GAMA no Github*
+ Eu tenho tido uma experiência incrível com o curso do Gama Academy, tem sido muito valioso para mim tudo que estou aprendendo, estou em transição e receber um conteúdo como esse, bem completo, numa sequência massa como essa está me deixando mega empolgada com o curso.GAMA no Github Eu tenho tido uma experiência incrível com o curso do Gama Academy, tem sido muito valioso para mim tudo que estou aprendendo, estou em transição e receber um conteúdo como esse, bem completo, numa sequência massa como essa está me deixando mega empolgada com o curso.
+
 ##### Faça o commit da sua altetação
 
 #### Execute o comando
