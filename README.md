@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+O Gama Academy tem acrescentado muito ao meu conhecimento em desenvolvimento de software.
+Esse curso é realmente incrível!
