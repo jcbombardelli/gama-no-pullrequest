@@ -18,4 +18,8 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou achando o curso muito interessante, tenho aprendido muitas coisas ao longo destas semanas e acredito que irei aprender muito mais ao longo do curso. 
+
+O curso também é bem prático o que ajuda a assimilar melhor o conhecimento.
+
+
