@@ -18,4 +18,6 @@
 
 Muito LEGALLLLL
 
-está tornando facil e prazeroso, sem dizer que é um verdadeiro ambiente de trabalho
+está tornando facil e prazeroso, sem dizer que é um verdadeiro ambiente de trabalho.
+
+:)
