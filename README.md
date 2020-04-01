@@ -16,6 +16,8 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+Muito LEGALLLLL
 
-Muito interessante!
+está tornando facil e prazeroso, sem dizer que é um verdadeiro ambiente de trabalho.
+
+:)
