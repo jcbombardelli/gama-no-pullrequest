@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Gostei bastante da forma que está sendo passado. Bem prático. 
+Comecei a aprender mesmo quando comecei a aplicar os exemplos. 
+
