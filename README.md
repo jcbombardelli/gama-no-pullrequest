@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+A didática é muito boa! Estou aprendendo bastante!
+Obrigado por compartilhar seu conhecimento!
