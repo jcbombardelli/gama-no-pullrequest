@@ -20,4 +20,4 @@ O que estou achando do curso ?
 
 Muito interessante!
 
-Excelente curso de GIT, gostei bastante!
+Excelente curso de GIT, gostei bastante!(Henry Bilby)
