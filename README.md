@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso foi apresentado de forma muito objetiva e prática. Resumiu em menos de uma hora as mais importantes práticas, oportunizando uma revisão para quem já conhece e tornando um iniciante ( do zero ) apto, se ele quiser, a desfrutar e contribuir com essa rede social de códigos - Git Hub. 
+
+Além disso, pude praticar Fork pela primeira vez, e está sendo um acréscimo significante em minha jornada nesse segmento.
