@@ -8,6 +8,8 @@
 
 #### Altere o arquivo README.MD e coloque suas impressões sobre este curso
 
+#### @gama/NefiTS!!!
+
 ##### Faça o commit da sua altetação
 
 #### Execute o comando
@@ -18,4 +20,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Bastante comunicativo e amplo, bem limpa a forma de ensinar, estou conseguindo acompanhar e aprender, e sempre que tenho duvidas consigo retirar no Slack.
