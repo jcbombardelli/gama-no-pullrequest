@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso está bem legal, já tinha um conhecimento anterior com git, porém não entedia direito sobre como funcionavam os branchs (realziava tudo na master mesmo).
+O professor explicou muito bem esta parte!
