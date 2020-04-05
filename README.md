@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Até o momento o curso tem sido de grande valia. Passando informações relevantes com didática simples e direta.
