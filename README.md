@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Eu estou gostando bastante, pois as explicações são faceis de entender. Tudo muito bem preparado e super interessante!
