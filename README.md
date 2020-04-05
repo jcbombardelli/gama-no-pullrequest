@@ -1,8 +1,8 @@
-# Desafio Gama Pullrequest
+# Desafio Gama Pullrequest - OK
 
-## Faça o FORK deste projeto
+## Faça o FORK deste projeto - OK
 
-### Faça o Clone do projeto em sua conta
+### Faça o Clone do projeto em sua conta - OK
 
 ### Cria uma BRANCH iniciada em "gama/"
 
@@ -16,6 +16,4 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
-
-Muito interessante!
+Está sendo muito produtivo para mim, pois, nunca me imaginei utilizando o github, sempre me pareceu algo fora da minha realidade. Estou particularmente ansioso para as aulas de desenvolvimento Web em si, principalmente de backend!
