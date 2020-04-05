@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Até o momento atual o curso vem sendo lecionado de maneira excelente, já que aborda cada mínimo detalhe, que muitas vezes pode passar despercebido. Tanto a plataforma de comunicação, Slack, quanto a plataforma de video aulas estão fazendo um ótimo papel, são simples e intuitivas. Sem falar que com o manual que recebi no ínicio, quase impossível ter alguma dúvida. E sei que caso alguma surja, o Bruce está de pronto para ajudar.
