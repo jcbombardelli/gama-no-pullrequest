@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito interessante! A cada semana são diversas as novidades apresentadas.
+É muito bom poder contar com este programa para se manter atualizado com o que há de mais atual no mercado.
