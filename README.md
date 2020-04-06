@@ -19,3 +19,9 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+## Comentário Sinésio Neto
+O curso sobre GIT é bom, mas pode sim melhorar. Poderia cobrir melhor alguma
+parte de resolução de error comuns e configuração do `.gitconfig` e do 
+`.gitignore` para os realmente mais iniciantes. Além de melhorar um pouco a 
+didática.
