@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso apresentou muitos casos de uso do git, o que foi surpreendente para poucas aulas.
