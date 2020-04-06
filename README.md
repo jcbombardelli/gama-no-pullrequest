@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante! Os vídeos disponibilizados são objetivos e sucintos, permitindo, de forma rápida, ter uma visão geral sobre o assunto e aprender os pontos mais importantes e relevantes de cada tópico. 
+Muito interessante!
