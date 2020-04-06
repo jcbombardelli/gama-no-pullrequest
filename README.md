@@ -18,4 +18,7 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Até o momento o conteúdo sobre soft skills fornecido tem me atraído muito.
+São materiais e didáticas de ótima qualidade que já fazem diferença no meu dia-a-dia.
+Quanto ao material técnico, apesar de já ter uma base do que foi passado até agora, assisti todos e também tem ótima qualidade. Em alguns assuntos parece que alguns pontos a mais poderiam ter sido cobridos, mas pra um conhecimento inicial, acho que está muito bom o material.
+
