@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso é muito bacana, estou aprendendo cada vez mais, detalhes que fazem toda a diferença. Espero evoluir muito mais e aproveitar da melhor maneira possivel o curso.
