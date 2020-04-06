@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso esta sendo muito bom, focando na base do que todo programador precisa saber
