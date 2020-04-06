@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
+Muito bom aprendi coisas que nem sabia 
+
 Muito interessante!
