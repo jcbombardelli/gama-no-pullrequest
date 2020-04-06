@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando muito do curso. Está sendo muito gratificando trocar experiências com pessoas com sede de conhecimento. Parabéns pela iniciativa Gama Academy e Vtex.
