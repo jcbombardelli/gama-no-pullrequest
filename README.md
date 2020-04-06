@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Excelente curso até o momento, abrange assuntos desde pessoal quanto profissional.
+Espero que a cada dia eu possa estar aprendendo e desenvolvendo mais e mais.
