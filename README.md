@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-O curso está excelente! 
+O curso está com uma qualidade tecnica excelente! :D
