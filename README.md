@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Adquirindo bastante conhecimento, estou adorando o treinamento.
+Adquirindo bastante conhecimento, estou adorando o treinamento,
