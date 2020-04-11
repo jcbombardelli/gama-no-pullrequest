@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O que falar desse curso que mal conheço e já considero pakas?
