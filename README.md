@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+## ANIMAL DEMAIS!!!
+
+<a href="https://khayan.github.io">**Khayan Malantrucco**</a> 🚀
