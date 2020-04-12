@@ -16,4 +16,4 @@
 
 ## Abra um PullRequest com suas alterações
 
-Estou achando um curso muito bom até o momento, pois versinamento em GIT era uma das skills que eu não possuia ainda como desenvolvedor. Falando agora um pouco sobre a forma como foi ensinado achei muito eficiente por ser estramamente direta e pratica.
+Estou achando um curso muito bom até o momento, pois versinamento em GIT era uma das skills que eu não possuia ainda como desenvolvedor. Falando agora um pouco sobre a forma como foi ensinado achei muito eficiente por ser estremamente direta e pratica.
