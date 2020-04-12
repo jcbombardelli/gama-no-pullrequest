@@ -8,6 +8,10 @@
 
 #### Altere o arquivo README.MD e coloque suas impressões sobre este curso
 
+##### O que estou achando do curso?
+
+A didática utilizada é muito boa. Apesar de já ter um conhecimento sobre git e github, para aqueles que não tem, foi passado o conteúdo de forma bastante clara e focada. Muito bom!
+
 ##### Faça o commit da sua altetação
 
 #### Execute o comando
