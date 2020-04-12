@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando bastante! Comecei agora na sexta semana e estou correndo atrás de todo o conteúdo já passado, um pouco perdida pois é muita informação de uma vez, mas estou adorando!
