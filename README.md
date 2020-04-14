@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso, em si, é bem focado e objetivo. Muito bom!!!
