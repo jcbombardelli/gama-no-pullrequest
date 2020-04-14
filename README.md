@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
+Gostando do curso
+
 Muito interessante!
