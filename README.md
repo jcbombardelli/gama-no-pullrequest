@@ -19,3 +19,6 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Na verdade eu achei muito interessante. 
+Posso te dizer, que pela primeira vez, vi um curso git resumido e completo para um start tendo o entendimento necessário para se virar 
