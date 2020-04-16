@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando muito, bastante explicativo e didático, faço análise e desenvolvimento de sistemas e alguns assuntos não havia entendido, assim como estou entendendo aqui com a gama academy.
+
+Estão abrindo muito minha mente para desenvolvimento. Parabéns!!
