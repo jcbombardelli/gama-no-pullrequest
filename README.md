@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso da até o momento, esta sendo uns do cursos mais completos e detalhados que já realizei, a equipe da Gama e seus professores, se preocupam muita com a forma como aborda o conteudo e com o material apresentado, de otima qualidade, nos proporcionando experiências incriveis.
