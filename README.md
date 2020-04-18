@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando muito, nunca havia feito um Pullrequest no máximo ficava entre criar adicionar comitar mas nada tão além assim. PARABÉNS!!
