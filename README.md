@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+A plataforma do GITHUB é excelente e, já na aula de Branch e Checkout já consegui entender a comunicação com o HTML. A aula poderia trazer um pouco mais dos possíveis erros que os usuários cometem e o que fazer para consertá-los...
