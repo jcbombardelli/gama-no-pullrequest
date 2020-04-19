@@ -5,6 +5,7 @@
 ### Faça o Clone do projeto em sua conta
 
 ### Cria uma BRANCH iniciada em "gama/"
+Usei o meu usuario GitHub para nomear a BRANCH, porem estou cadastrado no curso como Joseny Gaudencio Oliveira Filho
 
 #### Altere o arquivo README.MD e coloque suas impressões sobre este curso
 
@@ -18,4 +19,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Continuando achando muito bom! 
