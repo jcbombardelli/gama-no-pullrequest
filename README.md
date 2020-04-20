@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Achando muito legal os desafios e interações.
+Done :)
