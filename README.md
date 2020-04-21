@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando do curso, é bem direto ao ponto e vejo que as aulas da gama no geral são dessa forma e não muito longas o que facilita no planejamento para nossos estudos.
