@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Explicação simples, clara e didática. 
+Já tinha realizado outros cursos de git mas sem dúvidas este foi o melhor! :D
