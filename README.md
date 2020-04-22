@@ -22,4 +22,4 @@ Muito interessante!
 
 O que estou achando do curso?
 
-Estou achando o curso ótimo, aprender pela gama academy está sendo sempre produtivo!
+Estou achando o curso ótimo, aprender pela gama academy está sendo sempre bastante produtivo!
