@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Fala professor JC. Estou achando interessante toda essa integração do GIT, o remoto(github) e o editor de código(notepad++).
