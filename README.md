@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Ele é um pouco corrido, mais ele é Show de bola
+Ele é um pouco corrido, mais é Show de bola
