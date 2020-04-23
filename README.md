@@ -18,4 +18,10 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O material do curso do JC é:
+
+* Rico em conteúdo.
+* Boa didática leve.
+* Ótimas práticas de mercado.
+
+E para vermos mais detalhes, sobre o estilo README.md, me apoiei no artigo do [Raul Esteves](https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8)
