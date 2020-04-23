@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Ele é um pouco corrido, mais ele é Show de bola
