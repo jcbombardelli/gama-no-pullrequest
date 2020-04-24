@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+O conteúdo do curso de Git do Hiring Coders é tratado com objetividade e linguagem simples, sendo perfeitamente compreensível para iniciantes.
