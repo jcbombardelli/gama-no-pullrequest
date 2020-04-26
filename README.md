@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+esta agregando muito valor, e estigando a uma nova porta
