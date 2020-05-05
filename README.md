@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Sem muito o que comentar por enquando, mas muito ansiosa.
