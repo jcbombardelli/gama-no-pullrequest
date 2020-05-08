@@ -16,6 +16,9 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
 
-Muito interessante!
+### O que estou achando do curso ?
+
+Eu sempre tive muita dificuldade com o GIT até agora. estou finalmente 
+conseguindo entender como funciona a sua dinâmica. estou feliz por isso
+
