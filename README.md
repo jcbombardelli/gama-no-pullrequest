@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso é um ótimo começo para quem quer seguir na carreira de dev
