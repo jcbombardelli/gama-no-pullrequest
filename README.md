@@ -17,5 +17,6 @@
 ## Abra um PullRequest com suas alterações
 
 O que estou achando do curso ?
-
-Muito interessante!
+ 
+Estou gostando muito apesar de estar progredindo lentamente.
+Creio que pouco a pouco estou absorvendo bem o conteudo.
