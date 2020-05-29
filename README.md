@@ -17,5 +17,5 @@
 ## Abra um PullRequest com suas alterações
 
 O que estou achando do curso ?
+Java é uma liguagem LINDA! (risos)
 
-Muito interessante!
