@@ -17,5 +17,5 @@
 ## Abra um PullRequest com suas alterações
 
 O que estou achando do curso ?
+Curso importantíssimo - Java é um linguagem legal, porém requer muito esforço.
 
-Muito interessante!
