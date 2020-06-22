@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Está sendo muito desafiador mas estamos aqui pra isso :) 
