@@ -19,3 +19,6 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Estou achando muito interessante! Estou aprendendo sobre assuntos que ainda não tinha tido contato
+esta sendo muito bom!
