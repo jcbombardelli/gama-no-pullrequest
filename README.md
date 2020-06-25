@@ -19,3 +19,7 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+O que estou achando do curso ?
+
+Rapido, direto e com exercicios! Estou aprendendo muitas coisas novas!
