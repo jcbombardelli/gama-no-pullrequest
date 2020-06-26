@@ -17,5 +17,4 @@
 ## Abra um PullRequest com suas alterações
 
 O que estou achando do curso ?
-
-Muito interessante!
+Incrível. Vcs estão de parabéns por diminuirem as barreiras do virtual e tornarem o bootcamp uma experiência tão real. #GoGama #GoXP #FazMurrinho
