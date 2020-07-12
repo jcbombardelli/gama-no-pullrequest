@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso é bom e esteticamente é impecável. No meu ponto de vista, algumas explicações não são tão claras e exige que o aluno busque informações em outros recursos. Também considero que os exercício poderiam estar em outro formato, fora dos vídeos das aulas.
