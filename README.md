@@ -18,4 +18,8 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Nesse curso vou fazer meu primeiro pull request!
+
+Espero aprender ainda mais até o final.
+
+Ass: Vitor Dutra
