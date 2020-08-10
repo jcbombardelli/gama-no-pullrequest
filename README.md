@@ -18,4 +18,7 @@
 
 O que estou achando do curso ?
 
+O curso é muito interessante. Didática que vai direto ao ponto sem enrolação, mas que não é difícil de entender com grandes saltos de lógica. 
+
+
 Muito interessante!
