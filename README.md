@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Evoluindo e aprendendo, #gogama #xp35
