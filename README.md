@@ -1,5 +1,10 @@
 # Desafio Gama Pullrequest
 
+# Opnião sobre o curso
+
+Estou gostando mmais teóricos e hoje estamos tendo um hands-on de git, que esta sendo de extremo valor para esclarecer diversas dúvidas comuns a quem não lida com a ferramenta diariamente
+
+
 ## Faça o FORK deste projeto
 
 ### Faça o Clone do projeto em sua conta
