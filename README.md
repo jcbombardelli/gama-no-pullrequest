@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso está sendo bem produtivo pra mim, me relmebrou conhecimentos já adquiridos e aprofundou ainda mais os conhecimentos em SCRUM e Versionamento. 
+Estou gostando muito :D 
