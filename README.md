@@ -19,3 +19,7 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Curso MUITO LEGAL! CURTI DEMAAAIS!
+
+JC O MELHOR!!!!
