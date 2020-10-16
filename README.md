@@ -16,6 +16,5 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
-
-Muito interessante!
+# JC é um professor muito bom, consegue entregar a proposta de forma muito bem explicada.
+### O curso é muito interessante e abrangente
