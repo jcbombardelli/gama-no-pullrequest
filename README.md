@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso está sendo muito bacana, e estou conseguindo absorver muitas coisas novas. Quero parabenizar a JC e a turma da gama academy pelo excelente trabalho.  
