@@ -1,12 +1,14 @@
-# Desafio Gama Pullrequest
+## Fork do projeto feito
 
-## Faça o FORK deste projeto
+### Projeto clonado com sucesso !!
 
-### Faça o Clone do projeto em sua conta
+### Branch criada como  "gama/Matheus"
 
-### Cria uma BRANCH iniciada em "gama/"
+#### Impressões
 
-#### Altere o arquivo README.MD e coloque suas impressões sobre este curso
+```sh
+    Estou adorando o curso!
+```
 
 ##### Faça o commit da sua altetação
 
@@ -15,7 +17,3 @@
 `git push --set-upstream <remote> <branch>`
 
 ## Abra um PullRequest com suas alterações
-
-O que estou achando do curso ?
-
-Muito interessante!
