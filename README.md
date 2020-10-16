@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-O curso ministrador pelo professor JC Bombardelli da Gama Academy está bastante didatico. 
+O curso ministrado pelo professor JC Bombardelli da Gama Academy está bastante didatico. 
