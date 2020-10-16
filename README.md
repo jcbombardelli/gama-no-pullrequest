@@ -19,3 +19,6 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+> O curso está sendo bem didático!
+> O curso está sendo bem didático!2
