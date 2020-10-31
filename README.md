@@ -18,4 +18,7 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Esta sendo um arquivo muito interessante para reforçar conhecimentos que tinha e aprender novas coisas com os professores e as 
+alunas do curso. Muito bom!
+
+@juliaavaladares
