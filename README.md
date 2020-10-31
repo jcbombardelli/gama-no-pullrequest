@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando muito do curso pois o professor ajuda a gente, é totalmente diferente de aprender sozinha pelo Alura, por exemplo, que também é bom, mas nada substitui a interação com o professor, ao vivo. Estou gostando muito.
