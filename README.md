@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Maria Elisa Gomes de Matos: Contéudo bem apresentado, ótima didática e exercício bem práticos.
