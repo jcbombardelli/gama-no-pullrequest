@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou achando a aula bem legal e dinâmica. Apesar de conhecer o básico do git e github, aprendi de forma mais prática e tirei várias dúvidas. /dynnah
