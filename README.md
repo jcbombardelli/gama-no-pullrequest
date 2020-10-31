@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+
+O curso está muito sendo muito massa! Professores tem muito conhecimento e  ótima didática para ensinar.
