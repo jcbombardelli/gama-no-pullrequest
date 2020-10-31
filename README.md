@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito massa! Aprendi muita coisa legal! =D
+Muito massa! Aprendi muita coisa legal! =D =D
