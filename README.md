@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-O curso tá sendo muito bacana, o professor tem uma ótima didática e está sempre disposto a nos ajudar. :)
+O curso tá sendo muito bacana, o professor tem uma ótima didática, e está sempre disposto a nos ajudar. :)
