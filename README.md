@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+
+MUUITO LEGAL ESSA AULA DE GIT/GITHUB
