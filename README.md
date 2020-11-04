@@ -7,7 +7,7 @@
 ### Cria uma BRANCH iniciada em "gama/"
 
 #### Altere o arquivo README.MD e coloque suas impressões sobre este curso
-
+Fazendo alteracoes no .md usando o nano, yay!
 ##### Faça o commit da sua altetação
 
 #### Execute o comando
