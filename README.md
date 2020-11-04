@@ -19,3 +19,4 @@
 O que estou achando do curso ?
 
 Muito interessante!
+O fato de está aprendendo coisas novas me incentiva a estudar cada vez mais.
