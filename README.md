@@ -19,3 +19,8 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Muito útil para atividades cotidiano.
+comandos basicos de fácil entendimento.
+Curso muito massa. 
+
