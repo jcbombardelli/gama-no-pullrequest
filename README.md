@@ -1,4 +1,4 @@
-# Desafio Gama Pullrequest
+dsreesafio Gama Pullrequest
 
 ## Faça o FORK deste projeto
 
@@ -18,4 +18,8 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito interessanted 
+
+
+achei uma graxinha
+
