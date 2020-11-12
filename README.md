@@ -1,21 +1,5 @@
-# Desafio Gama Pullrequest
+# Impressões sobre o curso de GIT
 
-## Faça o FORK deste projeto
+<img src='https://i1.wp.com/www.megajuridico.com/wp-content/uploads/2017/08/chuck-norris-joinha.png?fit=1280%2C720&ssl=1&resize=300%2C300'>
 
-### Faça o Clone do projeto em sua conta
-
-### Cria uma BRANCH iniciada em "gama/"
-
-#### Altere o arquivo README.MD e coloque suas impressões sobre este curso
-
-##### Faça o commit da sua altetação
-
-#### Execute o comando
-
-`git push --set-upstream <remote> <branch>`
-
-## Abra um PullRequest com suas alterações
-
-O que estou achando do curso ?
-
-Muito interessante!
+## Excelente curso e professor!
