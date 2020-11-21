@@ -7,7 +7,7 @@
 ### Cria uma BRANCH iniciada em "gama/"
 
 #### Altere o arquivo README.MD e coloque suas impressões sobre este curso
-Gama/tonycarvalho
+
 ##### Faça o commit da sua altetação
 
 #### Execute o comando
@@ -16,6 +16,6 @@ Gama/tonycarvalho
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+O que estou achando do curso ? 
 
-Bem prático e acessível, gostei.
+Bem prático e acessível, gostei muito mesmo.
