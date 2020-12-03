@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Para quem não tem algum tipo de conhecimento em programação o curso acaba sendo um pouco avançado, mas estou gostando do desafio dessa formação Tech. Espero que meus colegas da formação estejam entendendo o conteúdo e conseguindo absorver as informações.
