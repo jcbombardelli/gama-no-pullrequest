@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Até aqui o curso tem sido muito bom, algumas pequenas coisas são complicadas de entender, mas nada que o Google não ajude!
