@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso da Gama Academy veio a agregar na minha jornada rumo a transição de carreira!
+Estou amando o conteúdo e aprendendo bastante.
+
