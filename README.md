@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Produção de Vídeos é boa, mas o conteúdo prático ainda é fraco.
