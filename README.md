@@ -1,5 +1,9 @@
 # Desafio Gama Pullrequest
 
+## Impressões sobre o curso
+
+O curso tem sido bem interessante, com aulas curtas e dinâmicas. Tenho aproveitado bastante.
+
 ## Faça o FORK deste projeto
 
 ### Faça o Clone do projeto em sua conta
