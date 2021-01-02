@@ -16,6 +16,6 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+O que estou achando do curso?
 
-Muito interessante!
+O professor JC Bombardelli tem uma ótima didática e o curso é muito bom, recomendo! 
