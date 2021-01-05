@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Curso excelente!
+Professor, libera o material de apoio pra gente!? =D
