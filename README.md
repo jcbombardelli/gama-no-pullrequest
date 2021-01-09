@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito interessante! A GAMA Academy é fod@! Muito obrigada pelo conteúdo!
