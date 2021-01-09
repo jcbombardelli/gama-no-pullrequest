@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Adorei suas aulas de GIT, mas a de JS achei muito confusa e corrida.
