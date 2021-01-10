@@ -19,3 +19,7 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+
+Este curso é muito importante para todos.
+E estou aproveitando muito.
