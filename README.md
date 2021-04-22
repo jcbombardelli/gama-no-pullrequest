@@ -1,21 +1,21 @@
-# Desafio Gama Pullrequest
+<h1 align="center">
+  <img alt="gama-academy" title="gama-academy" src="./github/logo.png" width="220px" />
+</h1>
 
-## Faça o FORK deste projeto
+## 🚀 Tecnologias
 
-### Faça o Clone do projeto em sua conta
+Esse treinamento foi desenvolvido com as seguintes tecnologias:
 
-### Cria uma BRANCH iniciada em "gama/"
+- Lógica de Programação
+- Metodologias
+- Git
+- HTML e CSS
+- Bootstrap
+- Estrutura de Dados
+- JavaScript básico e intermediário
 
-#### Altere o arquivo README.MD e coloque suas impressões sobre este curso
+## 💻 Projeto
 
-##### Faça o commit da sua altetação
+O curso da Gama Academy ofereceu o seu treinamento da trilha preparatória acessando o sistema de treinamento. Parceria do programa Itaú - Tech com acessibilidade.
 
-#### Execute o comando
-
-`git push --set-upstream <remote> <branch>`
-
-## Abra um PullRequest com suas alterações
-
-O que estou achando do curso ?
-
-Muito interessante!
+Feito com ♥ by Gama Academy
