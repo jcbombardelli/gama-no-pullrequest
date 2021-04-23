@@ -8,7 +8,7 @@
 
 #### Altere o arquivo README.MD e coloque suas impressões sobre este curso
 
-##### Faça o commit da sua altetação
+##### Faça o commit da sua alteração
 
 #### Execute o comando
 
@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Hozana Surda: Achei o curso maravilhoso. É a primeira vez que faço fork e pull request.
