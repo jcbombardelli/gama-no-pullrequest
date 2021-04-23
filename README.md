@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Hozana Surda: Achei o curso maravilhoso. É a primeira vez que faço fork e pull request.
