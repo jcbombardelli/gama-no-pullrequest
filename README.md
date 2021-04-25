@@ -16,6 +16,5 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
-
-Muito interessante!
+## Juliano Lopes - Impressões sobre o curso
+O curso está sendo realmente interessante, com bastante conteúdo de qualidade.
