@@ -20,4 +20,4 @@ O que estou achando do curso ?
 
 Muito interessante!
 
-Apresentando muita coisa nova
+Apresentando muita coisa nova!
