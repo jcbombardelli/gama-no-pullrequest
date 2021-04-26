@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Ja aprendi e entendi muita coisa
