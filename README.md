@@ -17,5 +17,5 @@
 ## Abra um PullRequest com suas alterações
 
 O que estou achando do curso ?
-   O curso é muuito interessante pois me deu uma nova perspectiva sobre o uso do git 
+   O curso é muuito interessante pois me deu uma nova perspectiva sobre o uso do git e isso é muito legal
 
