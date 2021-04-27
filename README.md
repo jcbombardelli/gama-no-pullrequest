@@ -17,4 +17,4 @@
 ## Abra um PullRequest com suas alterações
 
 ## Juliano Lopes - Impressões sobre o curso
-O curso está sendo realmente interessante, com bastante conteúdo de qualidade.
+O curso está sendo realmente interessante, com bastante pessoas e conteúdo de qualidade.
