@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Eu gostei, tive que investir mais de um dia no git pra aprender bem. Eu tive dificuldades com a parte de configuração, registro do usuario e email por exemplo. Mas não foi nada que não uma boa pesquisa na internet não resolve-se.
