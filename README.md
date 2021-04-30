@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou adorando o curso. Obrigada pela a oportunidade. <3 <3
