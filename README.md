@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+legal o conteúdo, somente a falta de acessibilidade nos cursos é que não está bom.
