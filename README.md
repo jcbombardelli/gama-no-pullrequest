@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito complexo! ainda tenho que me acostumar com esse novo mundo de GIT / CSS / bootstrap / javascript ... :p
