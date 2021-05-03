@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Gostei de toda dinamica do curso. Principalmente do desafio. 
