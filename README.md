@@ -16,6 +16,6 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+#### O que estou achando do curso ?
 
-Muito interessante!
+Muito interessante! Apesar de já usar o git e o github em alguns projetos, foi muito bacana ver os processos através de exemplos práticos junto à explicações mais aprofundadas dos principais comandos.
