@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Bem legal, didático e dá para fazer o passo a passo ao mesmo tempo.
