@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+As aulas têm sido bem produtivas, com alguns pontos que temos enfrentado dificuldade, todos eles discutidos ponto a ponto com a galera da Gama, que têm buscado nos ajudar a solucioná-los.
