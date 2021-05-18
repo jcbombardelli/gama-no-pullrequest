@@ -16,4 +16,4 @@
 
 ## Abra um PullRequest com suas alterações
 
-Tenho achado o treinamento incrível, uma oportunidade única de aprednizagem, de revisão conhecimentos e desenvolvimento de novas habilidades! Obrigado Afya Labs e Gama Academy por proporcionar essa experiência tão rica.
+Tenho achado o treinamento incrível, uma oportunidade única de aprendizagem, de revisão de conhecimentos e de desenvolvimento de novas habilidades! Obrigado Afya Labs e Gama Academy por proporcionar essa experiência tão rica.
