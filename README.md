@@ -16,6 +16,4 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
-
-Muito interessante!
+Tenho achado o treinamento incrível, uma oportunidade única de aprendizagem, de revisão de conhecimentos e de desenvolvimento de novas habilidades! Obrigado Afya Labs e Gama Academy por proporcionar essa experiência tão rica.
