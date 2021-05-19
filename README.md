@@ -16,6 +16,11 @@
 
 ## Abra um PullRequest com suas alterações
 
+
+
 O que estou achando do curso ?
 
-Muito interessante!
+Sem dúvida sensacional!
+
+A programação é minha paixão, ainda assim, só descobri isso agora com esta oportunidade do curso, feliz em conhecer este MEU novo MUNDO!!!
+
