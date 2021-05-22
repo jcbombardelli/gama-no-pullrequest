@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso é maravilhoso, professores são muito bons, tem uma ótima didática,
+parabéns a todos da gama pelo excelente trabalho.
