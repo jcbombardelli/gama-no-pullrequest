@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O conteúdo das aulas gravadas e as aulas ao vivo são ótimos!
+Estou aprendendo bastante, principalmente com as aulas ao vivo e podendo ajudar o colegas de curso!
