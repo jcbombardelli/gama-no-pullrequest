@@ -7,7 +7,7 @@
 ### Cria uma BRANCH iniciada em "gama/"
 
 #### Altere o arquivo README.MD e coloque suas impressões sobre este curso
-
+Gostando! Obrigado Gama e HC! Vamos a 1000% Bendicoes!
 ##### Faça o commit da sua altetação
 
 #### Execute o comando
