@@ -6,9 +6,9 @@
 
 ### Cria uma BRANCH iniciada em "gama/"
 
-#### Altere o arquivo README.MD e coloque suas impressões sobre este curso
+#### Altere o arquivo README.MD e coloque suas impressÃµes sobre este curso
 
-##### Faça o commit da sua altetação
+##### Faça o commit da sua alteração
 
 #### Execute o comando
 
@@ -16,6 +16,6 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+O que estou achando do curso ??
 
-Muito interessante!
+Estou muito satisfeito com esse aprendizado de git!!
