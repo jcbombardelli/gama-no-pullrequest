@@ -16,6 +16,5 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
-
-Muito interessante!
+Atividade da aula de GIT. 
+Estou muito empolgado com o curso! 
