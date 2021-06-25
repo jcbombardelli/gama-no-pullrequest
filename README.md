@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito interessante! Gostando muito do treinamento de git,
+já com a mão na massa desde o começo faz a gente aprender muito mais rápido e
+com mais qualidade!
