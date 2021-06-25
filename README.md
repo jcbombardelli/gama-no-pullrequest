@@ -19,3 +19,6 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Adorando aprender mais sobre branchs e Pull Request
+Nunca tinha utilizado essas duas ferramentas
