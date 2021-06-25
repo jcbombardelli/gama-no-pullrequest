@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito bom, é bem prático, mão na massa. Ta sendo muito esclarecedor sobre uns comandos que eu não sabia muito bem o conceito. Muito obrigado por terem criado o curso, muita gente esta sendo beneficiada só pelo conhecimento passado!
