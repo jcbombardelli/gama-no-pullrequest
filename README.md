@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso tem uma proposta bem clara e objetiva, isso pra mim é ótimo. Achei perfeito colocar, logo de início, um módulo sobre o GIT. Parabéns.
