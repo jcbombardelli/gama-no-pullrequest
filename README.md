@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Bem interessante. As explicações são bacanas, os professores também. Uma melhoria na interface do curso seria bacana.
