@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso explica os conceitos básicos sobre git e é muito legal!
