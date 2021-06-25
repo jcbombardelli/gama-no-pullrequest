@@ -1,8 +1,8 @@
-# Desafio Gama Pullrequest
+# Dev Veríssimo
 
-## Faça o FORK deste projeto
+## Bootcamp da GAMA ACADEMY
 
-### Faça o Clone do projeto em sua conta
+### Altas expectativas para inserção ao mercado de trabalho após a conclusão do curso
 
 ### Cria uma BRANCH iniciada em "gama/"
 
