@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+melhor curso de git na face da terra 
+
+att.newton
