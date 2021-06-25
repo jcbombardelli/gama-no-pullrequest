@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+SENCACIONAL!!! unir os principais conceitos de forma muito bem exemplificada e no final nos propor esse desafio de colocar em prática todo conteúdo!!
+EMPOLGANTE!!
+
