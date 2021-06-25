@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso está revisando e aprofundando de maneira bem dinâmica em conteúdos que já havia estudado
+e introduzindo novos conteúdos didaticamente. Está sendo incrível.
