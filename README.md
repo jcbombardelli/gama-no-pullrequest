@@ -19,3 +19,8 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Eu tive bastante trabalho para subir o arquivo do github pois os comandos não estão funcionado no meu computador igual o da aula.
+Vi que tem bastante conteúdo nos extras, estou ansioso para estudar tudo.
+
+
