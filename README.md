@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+R: otima didática no curso, com conteúdos focados no mercado de trabalho.    
