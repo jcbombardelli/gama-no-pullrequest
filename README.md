@@ -19,3 +19,4 @@
 O que estou achando do curso ?
 
 Muito interessante!
+O conteúdo das aulas é excelente e bem explicado.
