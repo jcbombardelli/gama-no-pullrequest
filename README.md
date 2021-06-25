@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso é muito interessante, no entanto não possui nenhum chat na plataforma para que os alunos possam tirar dúvidas com o professor e essa mesma dúvida possa ser vista por futuros alunos.
