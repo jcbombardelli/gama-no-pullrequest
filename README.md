@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou adorando o treinamento, pois está bem didático e eu estou conseguindo aprender com uma certa facilidade.
