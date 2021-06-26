@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Estou achando bacana :)
+Estou achando bacana! :)
