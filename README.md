@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando muito das aulas e estou aprendendo e relembrando algumas matérias que
+eu já tinha visto antes mas que não estavam frescas na memória.
