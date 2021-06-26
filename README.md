@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Interessante, porém não ensina a configurar o software em si no qual precisei de ajudar externa devido vários erros que ocorriam por não estar configurado.
