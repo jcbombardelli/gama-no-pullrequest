@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou achando incrível, os conteúdos são super interessantes e os professores ensinam de maneira clara. Acredito que o Hiring Coders vai ser meu caminho de entrada no mercado de trabalho.
