@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Tem muita coisa nova acontecendooooo! hahaha mas eh sensacional a oportunidade de tentar absorver tudo isso!!!! Amando a experiencia! :)
