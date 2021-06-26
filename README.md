@@ -16,4 +16,5 @@
 
 ## Abra um PullRequest com suas alterações
 
-Curso excelente. Voando muito!!
+Este curso está sendo espetacular.
+Vou me tornar um programador fullstack.
