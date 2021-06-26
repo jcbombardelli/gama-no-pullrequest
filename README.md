@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+A parte de Git tem sido um pouco dificil, mas estou empolgado e estudando muito!
