@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou achando bastante instrutivo apesar de ja possuir conhecimentos na area de programacao.
