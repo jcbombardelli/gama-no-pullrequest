@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou curtindo muito. A didática é muito bem aplicada e estou conseguindo reforçar alguns conceitos que eu não havia entendido anteriormente em outros cursos. Super recomendo a Gama Academy.
