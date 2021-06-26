@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Curso bastante proveitoso. A didática do Bombardelli é excelente.
