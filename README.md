@@ -19,3 +19,4 @@
 O que estou achando do curso ?
 
 Muito interessante!
+O curso é bem explicativo e detalhado, eu estou bem feliz em ser um dos selecionados.
