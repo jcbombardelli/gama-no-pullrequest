@@ -19,3 +19,6 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+#### O curso está excelente, apesar de já conhecer e ter estudado bastante git o professor reforçou muito bem e já me ensinou muitas coisas que eu ainda não sabia.
+Só agradeço
