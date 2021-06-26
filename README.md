@@ -16,6 +16,6 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+Estou gostando bastante do curso!
 
-Muito interessante!
+Bem legal.
