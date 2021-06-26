@@ -15,7 +15,4 @@
 `git push --set-upstream <remote> <branch>`
 
 ## Abra um PullRequest com suas alterações
-
-O que estou achando do curso ?
-
-Muito interessante!
+Estou gostando bastante do curso. Os professores parecem gostar muito do que fazem e tem uma didática muito boa.
