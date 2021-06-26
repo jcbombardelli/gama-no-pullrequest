@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+o hiring coders está nota 10!
