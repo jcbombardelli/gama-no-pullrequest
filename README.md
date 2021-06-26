@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O git é fantástico. Obrigado Gama por proporcionar essa
+experiência.
