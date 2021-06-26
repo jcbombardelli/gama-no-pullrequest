@@ -17,5 +17,4 @@
 ## Abra um PullRequest com suas alterações
 
 O que estou achando do curso ?
-
-Muito interessante!
+Estou muito feliz com a oportunidade de participar desse projeto incrivel para poder revisar e solidificar minhas bases de programação. O curso em si tá cheio de material bacana e com ótimos professores =)
