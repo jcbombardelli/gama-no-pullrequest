@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito bom, parece complicado para quem nunca usou o  git mas com o tempo vai ficando claro os comandos
