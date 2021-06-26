@@ -19,3 +19,7 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Este curso está me impressionando cada vez mais! A didática dos professores, o
+engajamento da comunidade, a quantidade de conteúdo e da mais alta qualidade. 
+Incrível!
