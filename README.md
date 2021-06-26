@@ -16,6 +16,6 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+O que estou achando do curso ???
 
 Um pouco vago para quem nunca viu as funcionalidades do git/cmd de um modo geral, e teve que caçar respostas na marra. Mas, faz parte. 
