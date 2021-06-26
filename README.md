@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Realmente super interessante, estou sentindo que agora eu estou aprendendo a realmente usar o git e github na prática, estão de parabéns pela didatica fantástica.
