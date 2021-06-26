@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando bastante. O curso até o momento tem se mostrado bastante didático, e se percebe o empenho dos instrutores em trazer para o dia-a-dia cada canteúdo compartilhado.
