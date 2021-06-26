@@ -16,6 +16,6 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+O que estou achando do curso:
 
-Muito interessante!
+O curso tem se mostrado muito intuitivo e de fácil aprendizado, possibilitando o entendimento dos conteúdos. Atualmente estou realizando os módulos e estou achando as aulas eficientes e agradáveis. Além destes pontos, também há os suportes que estão a todo momento tirando duvidas quanto ao curso e ajudando com problemas técnicos, o que motiva ainda mais cada aluno.
