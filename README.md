@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Olá tudo bem?!
+Estou bastante entusiasmado e animado com o curso, bastante simples e eficaz a forma que vcs usam para nos ensinar. Vcs estão de parabens pelo metodo de ensino que usam!!!!
