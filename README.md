@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!!!
+Adorando o curso até o momento, estou aprendendo muitas coisas novas, como por exemplo o Git, anteriormente ao curso já tinha um breve conhecimento da existencia, contudo não sabia ao certo porquê e para quê servia.
