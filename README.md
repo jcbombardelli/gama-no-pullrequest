@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Oi, meu nome é Scarlet Gabriella, estou muito contente com a oportunidade de está realizando o curso na Gama Academy. Bom, até o momento, o curso está superando as minhas expectativas, as aulas são de extrema qualidade, portanto, o que me motiva ainda mais a estudar.
