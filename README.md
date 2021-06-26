@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou achando muito bom! Os professores são excelentes! #Rumoaos300
