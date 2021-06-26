@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso é muito legal. Professores com ótimas didáticas. Tudo muito prático e alguma que achei interessante é que não é focado apenas nas habilidades técnicas mas também nas soft skills.
