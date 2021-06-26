@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso está sendo extremamente esclarecedor, de maneira que me sinto confiante a iniciar a utilizaçao do github sem nunca ter tido contato com ele anteriormente.
