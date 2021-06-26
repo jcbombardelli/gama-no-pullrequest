@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Bem legal!
+Bem legal! Minhas impressões
+..
