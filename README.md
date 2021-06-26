@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito útil para aprimorar e revisar meus conhecimentos.
