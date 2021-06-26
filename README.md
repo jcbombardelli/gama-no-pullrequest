@@ -16,6 +16,5 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
-
-Muito interessante!
+Este curso está sendo espetacular.
+Vou me tornar um programador fullstack.
