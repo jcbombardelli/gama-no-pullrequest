@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito leagal, finalmente estou aprendendo git. Sempre tive curiosidade sobre como funciona a colaboração
+com outros projetos, mas até então, não tinha encontrado em nenhum lugar essa infomação com uma didática
+tão boa.
