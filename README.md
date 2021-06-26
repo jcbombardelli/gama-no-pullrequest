@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Um pouco vago para quem nunca viu as funcionalidades do git/cmd de um modo geral, e teve que caçar respostas na marra. Mas, faz parte. 
