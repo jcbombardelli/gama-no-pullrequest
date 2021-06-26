@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou achando o curso didático e "mão na massa" ..o que ajuda bem na fixação
