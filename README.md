@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O Programa Hiring Coders na Gama Academy tem colaborado muito para a ampliação dos meus conhecimentos sobre lógica de programação e GIT até o presente momento.
