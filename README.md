@@ -17,4 +17,4 @@
 ## Abra um PullRequest com suas alterações
 
 O que estou achando do curso ?
- estou gostando muito do curso bem didatico
+ estou gostando muito do curso bem didatico!
