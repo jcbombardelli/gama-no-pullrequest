@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando bastante, aprendendo algumas funcionalidades novas no github, e outras informações sobre desenvolvimento web.
