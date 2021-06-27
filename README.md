@@ -18,4 +18,7 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Nossa, a primeira impressão é que a Gama segura na nossa mão e nos ensina a aprender. O conteúdo de soft skills é precioso para o processo total. 
+As aulas técnicas são claras e objetivas e sempre colocando a mão na massa. A cada aula fico feliz por fazer parte desse processo e com o coração cheio de esperança por dias de mais conhecimento. 
+Gratidão!!!
+Eline Pimentel -  Hiring Coders2
