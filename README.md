@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Gosto da velocidade do conteúdo, no entanto, talvez algumas explicações mais detalhadas estejam ficando de fora.
