@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+-- Acredito que estou conseguindo pegar todo o conteúdo certinho!
