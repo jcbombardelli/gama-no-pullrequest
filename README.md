@@ -1,21 +1,7 @@
 # Desafio Gama Pullrequest
 
-## Faça o FORK deste projeto
+### O que estou achando do curso?
 
-### Faça o Clone do projeto em sua conta
+O curso está excelente o conteúdo disponibilizado é de alta qualidade, com ótima didática. Esperava que os desafios fossem aplicados aos conteúdos. No entanto estão voltados para desenvolvimento comportamental o que impressiona também, pois nem só de técnica é feito um perfil profissional!
 
-### Cria uma BRANCH iniciada em "gama/"
-
-#### Altere o arquivo README.MD e coloque suas impressões sobre este curso
-
-##### Faça o commit da sua altetação
-
-#### Execute o comando
-
-`git push --set-upstream <remote> <branch>`
-
-## Abra um PullRequest com suas alterações
-
-O que estou achando do curso ?
-
-Muito interessante!
+Espero poder aprveitar ao máximo a oportunidade que foi aberta junto com os demais participantes desse programa.
