@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Curtindo muito e aprendendo mais sobre Git, uma skill que vai me ajudar a ser mais produtivo no meu dia a dia.
