@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Até o momento tenho me surpreendido muito com o curso, não esperava tanto dinamismo e agilidade mas estou me adaptando muito bem. 
+
+Gostando muito !!
