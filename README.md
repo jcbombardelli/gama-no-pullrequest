@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito interessante! Aprendendo bastante sobre o Git e Github, a qualidade do ensino está excelente.
