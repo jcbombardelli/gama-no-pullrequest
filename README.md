@@ -16,6 +16,6 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
-
-Muito interessante!
+O curso está me melhor doque eu imaginava!!
+A dinâmica dos professores e conteúdo está super intuitivo e ajuda até que já tem experiencia na área.
+tudo ok!
