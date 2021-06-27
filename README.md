@@ -19,3 +19,6 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+O que o meLuisLopes está achando do curso?
+Muito interessante com muitas novidades.
