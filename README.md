@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito legal, estou aprendendo muitas coisas e que são super importantes na área de programação. Gama Academy estão de parabéns!!
