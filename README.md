@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando muito do curso!!! Os professores possuem uma didática excelente e eu estou aprendendo muito.
