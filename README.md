@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito interessante! Vale muito a pena fazer. 
+
+Gratidão Gama Academy
