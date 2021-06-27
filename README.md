@@ -19,3 +19,7 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Quais os pontos importantes que você identificou?
+
+Didática e organização dos conteúdos.
