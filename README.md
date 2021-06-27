@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Oie JC, eu não tinha entendido essa aula até ontem e agora tô aqui, editando esse arquivo! Adorando o cursoo!
