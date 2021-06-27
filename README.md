@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso é bem explicativo, com um professor com uma ótima oratória e excelente didática. 
+Os exemplos são simples e práticos, o que possibilitou que eu, uma pessoa que não havia estudado esse assunto antes, conseguisse colocá-los em prática.
