@@ -19,3 +19,6 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+
+Este curso está bem esclarecedor - AugustoSilva "HiringCoders2" - 26/06/2021
