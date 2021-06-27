@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Olá, o curso está muito interessante. Estou gostando bastante.
