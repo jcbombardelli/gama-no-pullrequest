@@ -19,3 +19,7 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+O que estou achando do curso? (uitanmaciel)
+
+Estou achando muito legal e tenho grandes expectativas.
