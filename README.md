@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O professor possui boa didática e comunicação. As aulas são bem estruturadas, dinâmicas e com boa qualidade de vídeo.
