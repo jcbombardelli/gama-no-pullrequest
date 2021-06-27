@@ -16,6 +16,4 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
-
-Muito interessante!
+O curso está sendo sensacional, com uma ótima didática e ensino de qualidade.
