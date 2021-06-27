@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou achando muito bom, aulas objetivas e pessoal no slack ajudando bastante!
+
