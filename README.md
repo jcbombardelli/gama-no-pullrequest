@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
+Estou acho o curso muito bem elaborado. São aulas otimas de assistir e, por serem curtas, dá uma sensação de dever cumprido muito rápido. Além disso, o conteúdo e de fácil compreensão e a didática esta muito boa.
+
 Muito interessante!
