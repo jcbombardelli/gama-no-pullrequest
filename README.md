@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Bem bacana, inclusive essa parte sobre pull request!
