@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Vi essa aula sobre Pull requests no **Módulo 03 - GIT** do [Hiring Coders #2](https://www.hiringcoders.com.br/)! Estou adorando o programa! Este módulo sobre Git também está muito bom! Apesar de que eu particularmente já possuía alguns conhecimentos de Git, estou aprendendo coisas novas e creio que está bem didático até mesmo para quem ainda nem sabia o que é Git.
