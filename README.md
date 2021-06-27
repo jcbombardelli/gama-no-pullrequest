@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito interessante! Tive algumas dificuldades mas estou conseguindo evoluir.
