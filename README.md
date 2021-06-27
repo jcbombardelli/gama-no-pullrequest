@@ -16,6 +16,6 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+#### Impressões sobre o curso
 
-Muito interessante!
+##### Esse curso é fundamental para o aprendizado, pois nos insere no mundo do desenvolvimento apresentando ferramentas que são utilizadas no mundo corporativo e as formas de utilizá-las. Rico em conhecimento e aprendizado❗❗ 
