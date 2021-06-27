@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Didático, direto ao ponto.
+Aulas e conceitos basicos para continuar aprendendo alone.
