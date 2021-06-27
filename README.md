@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Aprendi muito no curso, que tem explicações claras e exemplos práticos. Recomento :thumbsup:
+
