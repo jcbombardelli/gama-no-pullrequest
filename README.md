@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso está sendo muito legal, estou conseguindo rever sobre algo que eu ainda não tinha domínio e agora posso dizer que ja dei um UP de mais de 50% sobre git. 
