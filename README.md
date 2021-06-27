@@ -16,6 +16,7 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
-
-Muito interessante!
+Já conheço um pouco sobre versionamento e aplico commits pontuais com a utilização,
+dos padrões. Mas não havia utilziando ainda branch's entre outros comandos, em suma,
+este curso está sendo esclarecedor. Espero ficar entre os 300 finalistas para isso 
+vou dar o meu melhor. Até breve.
