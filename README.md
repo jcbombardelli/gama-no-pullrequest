@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso está sendo muito interessante. Aprendi diversos comandos de git que não conhecia. E a experiência de criar um fork de um projeto existente está sendo excelente.
