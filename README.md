@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito bom!
+O professor tem uma ótima didática, aprendi vários comandos e utilidades do git e github. E o conteúdo do curso está sendo muito enriquecedor para mim.
