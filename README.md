@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito legal até o momento. Maiores detalhes serão colocados no Assignment do feedback do modulo
