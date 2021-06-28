@@ -19,3 +19,7 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+O que Bruno acha do Curso ?
+
+Muito bom, bastante aprendizado !!
