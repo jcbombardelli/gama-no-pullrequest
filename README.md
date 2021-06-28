@@ -16,6 +16,4 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
-
-Muito interessante!
+Estou gostando muito do curso. Eu não tinha muito conhecimento prévio sobre git e github, e o que tinha, era bem básico, apenas para subir alguns projetos pessoais no meu portfólio.
