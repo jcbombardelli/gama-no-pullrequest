@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Dinâmico e útil!
+Comandos do Git que eu desconhecia até agora.
