@@ -16,6 +16,6 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+O que estou achando do curso?
 
-Muito interessante!
+Estou aprendendo muito com o curso! Muito bem explicado e com a ajuda do Slack consigo sanar minhas dúvidas e ajudar os outros colegas.
