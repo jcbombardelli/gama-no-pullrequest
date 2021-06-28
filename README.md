@@ -19,3 +19,4 @@
 O que estou achando do curso ?
 
 Muito interessante!
+A didática do instrutor é muito boa, facilita a aprendizagem.
