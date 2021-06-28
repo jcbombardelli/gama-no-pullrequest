@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando muito do curso, ja que mesmo que eu ja conheça algumas tecnologias,
+estou pondendo revisar o que ja sabia e o que tinha esquecido, alem de aprender 
+novos conteudos.
