@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou achando incrivel, a didatica dos professores são de altissima qualidade e o conteúdo tambem.
+Estou muito satisfeito!
