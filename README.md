@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Super legal, no começo do curso do git foi bem dificil nada dava certo, mas o forum do pessoal ajudou e muito então conseguir voltar o ritimo do treinamento
+Super legal, no começo do curso do git foi bem dificil nada dava certo, mas o forum do pessoal ajudou e muito então conseguir voltar o ritimo do treinamento.
