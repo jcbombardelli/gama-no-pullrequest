@@ -19,3 +19,7 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+
+O que a Suzi Nogueira está achando do curso?
+Muito bom, está agregando muito para minha carreira !
