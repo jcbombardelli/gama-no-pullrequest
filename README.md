@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito interessante! Porém acredito que usar o Git desktop facilita a vida do iniciante!!!
