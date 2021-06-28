@@ -16,6 +16,6 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+**O que estou achando sobre o curso?**
 
-Muito interessante!
+Até o momento estou gostando muito das aulas propostas de Lógica com o Prof. Isidro, uma das melhores que vi até hoje e, claro, da didática incrível do Prof. JC para a dinâmica do Git.
