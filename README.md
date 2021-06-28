@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso está sendo maravilhoso, com muita didática e foco no conteúdo, seja teórico e prático, é uma honra estar participando, obrigado!
