@@ -18,4 +18,10 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Super legal o curso, professor Izidro e Bombardelli dando um show,
+didatica clara e conteudo bem repassado, além dos conteudos extras
+que estou doido para acessar.
+
+Muito obrigado por essa oportunidade,
+
+Amauri Gomes
