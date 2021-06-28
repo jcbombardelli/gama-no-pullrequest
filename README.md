@@ -18,4 +18,7 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Olá! Estou achando o curso muito produtivo. Fiquei um pouco confuso na aula chamada "Clone e pull", mas vou retomá-la para uma melhor compreensão.
+
+Grato,
+Raphael Nery.
