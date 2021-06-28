@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-O melhor curso que já fiz!! ^^
+Muito interessante!
