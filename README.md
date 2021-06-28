@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso em minha opinião é fantástico, tem me auxiliado não só na carreira profissional, mas, também no pessoal!
