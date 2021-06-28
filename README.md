@@ -18,4 +18,10 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Participei do XP16 do Gama.
+Senti uma melhora incrível no conteúdo e apresentação das playlists.
+
+Parabéns à equipe!
+
+Sugestão: Marcar um vídeo já visto como "Já assistido".
+#GoGama #GoHiringCoders
