@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Curso muito bem explicado, detalhando cada comando, muito bom! Parabéns!
