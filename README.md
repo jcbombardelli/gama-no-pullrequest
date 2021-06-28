@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-O curso está sendo incrível, principalmente a explicação dos professores quanto ao conteúdo apresentado, está sendo incrível.
+O curso está sendo incrível, principalmente a explicação dos professores quanto ao conteúdo apresentado, a cada dia estou sentindo que estou evoluindo mais.
