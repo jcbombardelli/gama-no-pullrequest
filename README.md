@@ -18,4 +18,7 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Curso é pra quem já usa o git, e mostra também que o professor sabe muito, mais para acompanhar um  aluno iniciante no git, quase impossível, pois quando vc instala o git e tentar começar os comandos é meio confuso e dá muitos erros, eu mesmo tive que ir até o youtube e fazer um curso pra depois conseguir acompanhar as aulas.
+
+Mais sucesso pra todos vamos que vamos!!!
+
