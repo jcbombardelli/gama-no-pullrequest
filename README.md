@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Ótimo (apesar do nível elevado)!
+Muito interessante! (comentário do comando do pullrequest)
