@@ -16,6 +16,6 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+@nathannieg: O que estou achando do curso ?
 
-Muito interessante!
+Curso muito bom, super bem explicado, mas faltou a parte de configuração inicial para criar as variáveis nome e e-mail. Seria interessante também ter um vídeo falando sobre a nova forma de autenticação, já que o github vai parar de aceitar acesso por senha.
