@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O Hiring Coders está sendo irado! Apenas começando porém muito animado para todos os desafios! :)
