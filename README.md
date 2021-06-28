@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Gostei do curso, achei interessante como ele falou sobre alguns conceitos como "mundo alternativo". Apenas achei que em determinadas partes foram muitos rápidas.
