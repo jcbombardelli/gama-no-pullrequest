@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando bastante do curso. Achei um pouco difícil no início, mas consegui aos poucos entender melhor.
+Excelente didática!
