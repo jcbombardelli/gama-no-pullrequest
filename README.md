@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou adorando o curso. Sugiro apenas incluir um vídeo sobre como navegar nas pastas através do prompt de comando.
