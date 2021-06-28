@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-O curso está muito didático, o professor sabe explicar com exemplos o que precisamos saber e isso está sendo esclarecedor. 
+O curso está muito didático, o professor sabe explicar com exemplos o que precisamos saber e isso está sendo esclarecedor.  
