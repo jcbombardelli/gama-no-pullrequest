@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou curtindo bastate a prendendo detalhes muito interessantes.
