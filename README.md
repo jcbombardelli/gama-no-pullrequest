@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Gostei demais, a didática muito boa, direto ao ponto, bem resumido.
+Professores ótimos, plataforma bonita com intro e etc dos vídeos legais e conteúdo também muito bacana.
