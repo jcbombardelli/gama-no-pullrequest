@@ -18,4 +18,7 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando muito, muito obrigada por disponibilizarem esse conteúdo gratuitamente.
+
+Atenciosamente, 
+Larissa
