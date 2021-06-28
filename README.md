@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Até o momento este curso está muito massa, tanto na parte de didática quanto de conteúdo. Por isso, estou muito ansioso para explorar os próximos módulos, e continuar aprendendo com essa equipe 1.000.
+
+![happy-dev](https://media.giphy.com/media/g06HKnMmtK1aXurndU/giphy.gif)
