@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+Dinâmico e útil!
+Aprendi conceitos e comandos do git.
