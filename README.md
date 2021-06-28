@@ -16,6 +16,6 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+O que estou achando do curso?
 
-Muito interessante!
+Estou achando esse curso muito bacana, ele ensina desde o básico mas com uma base bem sólida. Tá bem gostoso de acompanhar.
