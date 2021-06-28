@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Adorei essa qualidade, mostra o quão profissional e sério é o treinamento :)
