@@ -17,5 +17,5 @@
 ## Abra um PullRequest com suas alterações
 
 O que estou achando do curso ?
-
-Muito interessante!
+Curso está sendo muito produtivo, revendo conceitos e aprendendo ainda mais,
+principalmente com o módulo de GIT
