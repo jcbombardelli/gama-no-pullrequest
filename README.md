@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou curtindo muito o curso, a qualidade de áudio e vídeo estão incríveis!
