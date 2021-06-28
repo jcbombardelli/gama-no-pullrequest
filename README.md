@@ -18,4 +18,17 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito interessante! Pude aprender diversos conceitos novos, e aprimorar os conceitos já vistos anteriormente.
+ Pontos principais:
+ - git init;
+ - git add;
+ - git commit -m;
+ - git log;
+ - git status;
+ - git show;
+ - git branch;
+ - git checkout;
+ - git merge;
+ - git push;
+ - git clone;
+ - git pull.
