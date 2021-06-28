@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito interessante! Revisando bastante os conceitos do Github até o momento. A parte de Algoritmos foi muito boa também...
