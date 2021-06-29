@@ -16,6 +16,4 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
-
-Muito interessante!
+O curso é bem didático. Recomendo para quem já tem uma base em informática, pode complicar pra quem não conhece nada.
