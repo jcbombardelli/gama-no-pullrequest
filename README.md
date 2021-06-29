@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito motivador, esta me dando mais incentivo para continuar.
