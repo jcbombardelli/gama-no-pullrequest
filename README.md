@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Curso muito bom, didático, com linguagem simples, mesmo para quem nunca viu nada sobre o assunto e até mesmo para quem já viu algo no passado. Parabéns Bombardelli!
