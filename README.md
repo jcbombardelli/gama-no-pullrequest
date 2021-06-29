@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Aprender é muito bom, com a gama academy é muito melhor!
