@@ -16,6 +16,8 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+#### O que a Daiani está achando do curso?
 
-Muito interessante!
+No início achei complicado por ter começado de uma forma muito direta, mas depois que compreendi o básico tudo ficou mais claro. O curso está muito bacana, estou amando utilizar o Git.
+
+Recomendo a adição de um video sobre a instalação.
