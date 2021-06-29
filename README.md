@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou revendo alguns conceitos/comandos e está sendo incrível!
+ 
