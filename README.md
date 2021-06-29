@@ -16,6 +16,6 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+O que o Adilio está achando do curso ?
 
-Muito interessante!
+R: Muito bacana, git é vida :)
