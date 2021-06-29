@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Estou gostando muito de aprender sobre o git. As aulas são muito bem esclarecidas e ótimas de compreender.
+
+De: Gustavo Moreira
