@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Melhor impossível, simples, rápido, prático, gostei do ritmo das aulas, bem dinâmicas e conseguem passar uma boa base sobre Git e Github. Gratidão!
