@@ -17,5 +17,4 @@
 ## Abra um PullRequest com suas alterações
 
 O que estou achando do curso ?
-
-Muito interessante!
+O curso tem sido incrível, sensacional. Eu estou cada vez mais ansioso para aprender mais e mais com a equipe da Gama e da VTEX ! Inclusive, se preparem , pois vou trabalhar com vocês !
