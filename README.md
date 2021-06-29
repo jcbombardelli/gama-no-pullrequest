@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso está muito bom reforcei muito o básico de git/github! - Bryanauta
+
+
