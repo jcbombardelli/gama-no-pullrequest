@@ -18,5 +18,5 @@
 
 O que estou achando do curso ?
 
-will: curso prático! muito bom!
+will: curso prático! muito bom! 10!
 
