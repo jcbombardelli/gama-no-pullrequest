@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Maravilhoso!! Aprendi bastante no módulo de Git \o/
