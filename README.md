@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou adorando! Gostei da didática abordada pelos professores que sempre trazem exemplos práticos.
