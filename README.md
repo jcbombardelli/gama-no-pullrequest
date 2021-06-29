@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-O que curso está muito interessante!
+O curso está muito interessante!
