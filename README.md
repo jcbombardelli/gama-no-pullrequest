@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso é muito bom, bem escruturado, de bastante qualidade e os professores são bem simpáticos.
