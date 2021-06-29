@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
+Estou achando o curso ótimo, bastante conteúdo interessante e didática excelente
+
 Muito interessante!
