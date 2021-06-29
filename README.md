@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito bom o treinamento, aulas bem elaboradas e professores qualificados,está sendo bem desafiador 
+Muito bom o treinamento, aulas bem elaboradas e professores qualificados,está sendo bem desafiador ;
