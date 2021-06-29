@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito bom o curso, agora sempre utilizo git para meus scripts.
