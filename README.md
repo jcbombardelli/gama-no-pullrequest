@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Estou realmente muito empolgado pois o conteúdo e a dinâmica do professor estão excelentes!!!
