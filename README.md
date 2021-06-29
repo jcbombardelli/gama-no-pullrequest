@@ -8,7 +8,7 @@
 
 #### Altere o arquivo README.MD e coloque suas impressões sobre este curso
 
-##### Faça o commit da sua altetação
+##### Faça o commit da sua alteração
 
 #### Execute o comando
 
@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Melhor do que eu esperava! Tempo de curso reduzido, conteúdo abrangente, método conciso e eficiente, pois aulas assíncronas ajudam muito aos educandos na disponibilidade de cada um, eu por exemplo, trabalho até 16h e começo a estudar depois desse horário. O único ponto fraco do curso é pular alguns detalhes de conteúdo, como por exemplo no GIT, de como configurar e sincronizar com o GITHUB. Mas no geral, é um curso maravilhoso, uma oportunidade única e agradeço muito aos envolvidos.
