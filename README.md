@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+will: curso prático! muito bom! 10!
+
