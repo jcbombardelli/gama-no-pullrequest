@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Está sendo bem gratificante participar desse treinamento, estou surpreso com todo o conhecimento passado.
