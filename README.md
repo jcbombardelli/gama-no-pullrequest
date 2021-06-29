@@ -1,8 +1,8 @@
 # Desafio Gama Pullrequest
 
-## Faça o FORK deste projeto
+## Faça o FORK deste projeto <---
 
-### Faça o Clone do projeto em sua conta
+### Faça o Clone do projeto em sua conta <--
 
 ### Cria uma BRANCH iniciada em "gama/"
 
@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso é muito interessante.
