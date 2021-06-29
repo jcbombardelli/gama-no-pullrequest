@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+E apropriado para alguém que já tenha noção de Git. Iniciantes encontram muitas dificuldades!
