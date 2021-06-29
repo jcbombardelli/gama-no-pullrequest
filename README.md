@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+gfhdutra: A primeira semana do curso está sendo excelente! Apesar de introdutório, o conteúdo é muito bem explicado e fundamental para o aprendizado.
