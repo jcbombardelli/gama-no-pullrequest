@@ -17,5 +17,5 @@
 ## Abra um PullRequest com suas alterações
 
 O que estou achando do curso ?
-
-Muito interessante!
+Tenho achado Muito interessante!
+Mal posso esperar pelas provas.
