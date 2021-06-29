@@ -8,7 +8,7 @@
 
 #### Altere o arquivo README.MD e coloque suas impressões sobre este curso
 
-##### Faça o commit da sua altetação
+##### Faça o commit da sua alteração
 
 #### Execute o comando
 
@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou adorando esse modulo Git, estou aprendendo muitas técnicas e conceitos, alguns comandos eu já conhecia, mas ainda assim pude aprender muitas outras funcionalidades. Parabéns ao professor e sua técnica de ensino.
