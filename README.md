@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+estou aprendendo muito os conceitos basicos, quero aprender ainda mais com o time!
+
