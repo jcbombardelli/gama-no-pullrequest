@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou achando o curso de GIT no Hiring coders muito interessante e completo.
+
+Vinicius Sanson
