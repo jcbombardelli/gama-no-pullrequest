@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso tem sido uma ótima experiência para mim, tem agregado de diversas formas. Está sendo bem interessante aprender tantas coisas novas. É bem empolgante 
