@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso começou com um basicão da web, logica  e ferramentas exercias no desenvolvimento e na semana 2 começou já com o nosso amado JavaScript e começa a dificultar um pouco mais. Estou adorando a experiencia, obrigado gama s2
