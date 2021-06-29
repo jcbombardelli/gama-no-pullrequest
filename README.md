@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
+Estou achando muito edificante, e sinto que já aprendi muito, principalmente na área de softskills.
+
 Muito interessante!
