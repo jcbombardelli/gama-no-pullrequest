@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito bom conhecer mais detalhes sobre essa ferramenta de versionamento. Gostei muito.
