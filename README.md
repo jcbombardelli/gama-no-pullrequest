@@ -16,6 +16,6 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+O que estou achando do curso?
 
-Muito interessante!
+<p><i>R. Tenho gostado muito do modelo de didática das aulas, com conceitos muito bem explicados e fracionados por temas, facilitando na hora de praticar ou buscar por algo específico. Os professores têm um domínio enorme do conteúdo, o que me dá ainda mais segurança para avançar nos estudos. </i></p>
