@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+o curso a principio é muito interessante.
