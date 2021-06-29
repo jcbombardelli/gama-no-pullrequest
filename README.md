@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou adorando participar deste curso, nada como ser capacitada em uma area que só cresce! Está sendo muito proveitoso.
