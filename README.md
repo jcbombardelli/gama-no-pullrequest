@@ -16,6 +16,6 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+Sobre o curso da Gama Academy
 
-Muito interessante!
+Está sendo bem desafiador para um iniciante, mas de grande aprendizado.
