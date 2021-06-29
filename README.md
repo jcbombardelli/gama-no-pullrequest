@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estar sendo uma experiência fantástico, as aulas são simple o que garante
+uma maior absorção de conteúdo
+Obrigado!
