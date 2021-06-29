@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+O curso tem sido muito interessante, eu não tinha experiencia nenhuma com git, e agora ja sinto confiança para começar a a utiliza-lo.
