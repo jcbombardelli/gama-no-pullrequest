@@ -18,4 +18,10 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Melhor curso de Git e GitHub da internet!!!
+
+Fazendo este curso estou percebendo que vou aprender muuuuuito e principalmente me divertir durante este trajeto, obrigado Gama Academy e Parceiros por esta maravilhosa oportunidade.
+
+ADRIANO MATOS
+https://github.com/adrianomatos/
+https://www.linkedin.com/in/matttos/
