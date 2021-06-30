@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Estou gostando bastante do curso pois essa é a oportunidade que buscava para mudar de area dentro da area de TI.
+Estou gostando bastante do curso pois essa é a oportunidade que buscava para mudar de area dentro da area de TI. e acredito que este curso vai me trazer muitas oportunidades. 
