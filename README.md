@@ -8,6 +8,9 @@
 
 #### Altere o arquivo README.MD e coloque suas impressões sobre este curso
 
+O curso está sendo muito proveitoso, de forma detalhada que ajuda muito no processo de aprendizagem.
+Feliz com a oportunidade.
+
 ##### Faça o commit da sua altetação
 
 #### Execute o comando
