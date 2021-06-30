@@ -18,4 +18,7 @@
 
 O que estou achando do curso ?
 
+Fantastico, fiz tudo na prática, praticando o teorico e colocando em ação para fixar o aprendizado.
+Professor sensacional só tenho que agradecer a oportunidade da Gama Academy e o professor por dividir sua experência e nos ensinar.
+
 Muito interessante!
