@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso está sendo muito bom para o crescimento de minhas skills. Todos os professores são ótimos e tem uma didática muito boa. Assuntos mais complexos que eu tinha dificuldade em aprender foram facilmente absorvidos com o ensinamento passado por eles.
+
