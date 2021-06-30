@@ -16,6 +16,8 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+Vinicius Martins: 
 
-Muito interessante!
+O que estou achando do curso?
+
+Muito bom!
