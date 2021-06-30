@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando muito, podendo revisar conteúdos já vistos, além de conhecer novas maneiras e formas de realizar comandos.
