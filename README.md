@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Top, Top, Top! ao Jc. Bombardelli e a todos da Gama Academy: Obrigado!
