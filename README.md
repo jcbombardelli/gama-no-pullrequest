@@ -1,12 +1,12 @@
 # Desafio Gama Pullrequest
 
-## Faça o FORK deste projeto
+## Faça o FORK deste projeto - OK
 
-### Faça o Clone do projeto em sua conta
+### Faça o Clone do projeto em sua conta - ok
 
-### Cria uma BRANCH iniciada em "gama/"
+### Cria uma BRANCH iniciada em "gama/" -OK
 
-#### Altere o arquivo README.MD e coloque suas impressões sobre este curso
+#### Altere o arquivo README.MD e coloque suas impressões sobre este curso - OK
 
 ##### Faça o commit da sua altetação
 
@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando bastante do curso pois essa é a oportunidade que buscava para mudar de area dentro da area de TI.
