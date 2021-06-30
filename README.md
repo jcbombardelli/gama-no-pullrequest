@@ -18,4 +18,8 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou muito empolgado com o curso, tem mais conteúdo do que eu imaginava.
+Espero que eu consiga dar conta.
+Parabéns à equipe envolvida em toda essa estrutura!
+
+#Ivan Cardoso
