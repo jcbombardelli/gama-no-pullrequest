@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Djan - Para mim este curso está sendo gratificante pois estou aprendendo muitas coisas novas.
