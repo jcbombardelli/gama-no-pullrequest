@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+Curso top!!!
+Mais um desafio concluído!
