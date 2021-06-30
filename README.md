@@ -19,3 +19,7 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+O que estou achando do curso? (JuniorQuintas)
+
+Estou bem empolgado com o curso e sua dinâmica. Confesso que não conhecia o git e github mas a ideia é boa d+
