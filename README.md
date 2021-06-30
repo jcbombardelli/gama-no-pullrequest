@@ -19,3 +19,4 @@
 O que estou achando do curso ?
 
 Muito interessante!
+Estou gostando bastante, principalmente desta parte sobre contribuição em projetos open source
