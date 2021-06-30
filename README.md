@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso é muito interessante. Gostei do fato de se preocuparem em ensinar até mesmo o básico da teoria, ao mesmo tempo que ensinam na prática como aplicar parte do conteúdo.
+
+Pontos a melhorar: poderiam adicionar reprodução automática dos vídeos.
