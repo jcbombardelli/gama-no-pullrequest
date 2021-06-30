@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou amando o curso!
+
+Passei pela minha primeira experiência com pull request e contribuição em outro projeto!
