@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Eu estou achando esse curso tudo de mais! Está perfeito isso, estou simplesmente sem palavras
