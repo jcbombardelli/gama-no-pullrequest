@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+[Deise Kinsk](https://www.linkedin.com/in/deise-kinsk-profile/) 
