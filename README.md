@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando bastante do curso, está me ajudando muito a entender as ferramentas que ajudam o ramo de programação no geral.
