@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou aprendendo bastante, e esses desafios estão me ajudando a fixar o conteúdo.
+
