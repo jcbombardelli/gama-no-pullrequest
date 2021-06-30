@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+A parte de git ta meio complicada, o modelo de ensino dos 2 primeiros modulos estava melhor, mas to achando bem legal no geral. Aprendendo muito e com sedede aprender mais.
