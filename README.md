@@ -2,13 +2,13 @@
 
 ## Faça o FORK deste projeto
 
-### Faça o Clone do projeto em sua conta
+### Faça o clone do projeto em sua conta
 
-### Cria uma BRANCH iniciada em "gama/"
+### Crie uma BRANCH iniciada em "gama/"
 
 #### Altere o arquivo README.MD e coloque suas impressões sobre este curso
 
-##### Faça o commit da sua altetação
+##### Faça o commit da sua alteração
 
 #### Execute o comando
 
@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Gostei bastante, acho que o material foi bem elaborado e os vídeos foram bem explicativos.
