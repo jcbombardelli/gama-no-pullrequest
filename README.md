@@ -16,6 +16,6 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+Minha humilde opinião
 
-Muito interessante!
+Estou gostando muito, os professores tem um forma de ensinar bem didática.
