@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou adorando o curso! Estou tendo a oportunidade de estudar novamente alguns tópicos em assuntos que já tenho certo domínio como HTML, CSS e Javascript, e ao mesmo tempo aprender assuntos novos como o Git mesmo (antes, achava que Github seria suficiente para mim, e agora percebo que estava errada).
+
+Mesmo que eu não chegue ao round final, ainda estou muito feliz por participar do Gama!
