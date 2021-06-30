@@ -19,3 +19,8 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+O que estou achando do curso ?
+Fala pessoal, me chamo Ana Larissa e estou participando da primeira fase do Hiring Coders, neste momento estou no 
+Módulo 03 - estudando Git. Estou muito feliz por conseguir aplicar os conhecimentos obtidos durante as aulas. O programa 
+de treinamento Hiring Coders, está sendo uma oportunidade incrível de adquirir conhecimento!
