@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito legal, ainda mais quando temos a parte prática, para reforçar o aprendizado.
+
+
