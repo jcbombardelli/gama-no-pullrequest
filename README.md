@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso da gama esta agregando muito conhecimento, principalmente na parte de softskills, aprendendizagem etc.
+Que são temas pelo qual eu me interesso mas que ainda não havia conhecido muitos dos conteudos passados pelo
+curso. Está realmente impactando de forma positiva o meu desenvolvimento.
