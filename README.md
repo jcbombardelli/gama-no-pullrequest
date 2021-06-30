@@ -19,3 +19,6 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Aprendendo muito com o time Top!
+vamos lá
