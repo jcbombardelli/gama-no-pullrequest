@@ -19,3 +19,6 @@
 O que estou achando do curso ?
 
 Muito interessante!
+Estou adorando todas as aulas, são muito bem pensadas , bem elaboras e estruturadas,
+a dinâmica é muito boa.
+Parabéns! 
