@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando bastante. Está sendo um pouquinho complicado mas sei que é por ser um estudo bem diferente do que estou acostumado. Essa semana já senti uma melhora em relação a isso. Daqui pra frente só tende a melhorar com a prática!
