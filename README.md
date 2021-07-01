@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Precisa esclarecer melhor os mecanismos utilizados e disponibilizar o materia de apoio.
