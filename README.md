@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito legal o Git e o GitHub, não conhecia este tipo de tecnologia, porém é muito util no dia a dia realmente.
