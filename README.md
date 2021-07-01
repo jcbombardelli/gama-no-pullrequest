@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Um pouco complicado, já que é tudo muito novo. Mas acredito que com prática eu conseguirei trabalhar melhor com o git.
