@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou achando o curso muitop top , estou tenho alguma dúvidas mas acho normal em relação ao git, mais estou buscando conhecimento fora também para acompanhar o professor e me dedicar sempre ao máximo ao treinamento! 
