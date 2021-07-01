@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou achando o curso fantástico. Estou sem note e estou tendo que usar uma maquina virtual no google, pois o note que peguei emprestado não tem permissões de adm. rs
+Mas está indo tudo bem apesar de algumas dificula.
