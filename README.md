@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito bom, não sabia sobre recurso de branch, na verdade sabia, porém não tinha me
+me aprofundado em um treinamento prático como este.
