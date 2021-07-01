@@ -18,4 +18,12 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Olá Professor, tudo bem?
+
+Esta é minha contribuição com o desafio do pullrequest
+
+O curso foi muito bacana, gostei do conteúdo. Aprendi comandos novos e estou estudando cada vez mais para virar fera em GIT!!
+
+Abraços!
+
+Jenny
