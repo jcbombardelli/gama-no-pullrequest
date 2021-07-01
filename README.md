@@ -20,3 +20,5 @@ O que estou achando do curso ?
 
 Muito interessante!
 Estou aprendendo coisas novas!
+
+Estou aprendendo a utilizar algumas funções do Git e github.
