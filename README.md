@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Esse treinamento da Gama academy/hiring Coders tem sido incrivel. A ênfase na prática tem tornado tudo até que divertido. Claro que é só o começo, e muito mais vem por ai. Muito obrigado pela oportunidade de retornar para a área de tecnologia.
