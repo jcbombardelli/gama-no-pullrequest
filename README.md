@@ -16,6 +16,4 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
-
-Muito interessante!
+O curso é muito interessante. Algumas ressalvas em certas partes mas nada que uma busca não resolva.
