@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Nota 1000! Agora sim, finalmente consegui aprender GIT e GITHUB!
