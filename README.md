@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Inicialmente, tive bastante dificuldade quanto a didática nos videos. Mas acompanhando com o uso da documentação, além das mentorias ao vivo, foi mais fácil de entender o que estava sendo dito e consegui prosseguir com as aulas sem nenhum problema.
