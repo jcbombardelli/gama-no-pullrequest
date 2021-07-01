@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou amando o quanto estou conseguindo absorver dos cursos, gracas á didática.
