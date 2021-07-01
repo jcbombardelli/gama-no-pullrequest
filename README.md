@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando bastante do curso! Apesar de já ter algum conhecimento em Git, os conceitos estão bem explicados.
+
