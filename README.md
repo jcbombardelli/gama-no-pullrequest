@@ -16,6 +16,6 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
-
-Muito interessante!
+Já tinha uma noção sobre uso de Git e GitHub mas esse curso me esclareceu muitos pontos principalmente sobre branchs e pullrequests que eram funções das quais não havia entendindo muito bem.
+Realmente feliz e entusiamado com o aprendizado.
+Muito obrigado.
