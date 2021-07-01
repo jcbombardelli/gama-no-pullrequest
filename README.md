@@ -19,3 +19,11 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+### Branch gama/F-Siqueira
+
+#### Impressões sobre o curso
+
+    O curso é bastante abrangente para quem está começando no caminho do Git.
+
+    Obrigado!
