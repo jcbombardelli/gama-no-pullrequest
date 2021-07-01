@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Estou curiosa para os próximos passos.
+Estou curiosa para os próximos passos no curso.
