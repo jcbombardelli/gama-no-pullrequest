@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Dificuldades a parte. A experiência esta sendo ótima. Estou atrasado, mas vamos em frente. 
