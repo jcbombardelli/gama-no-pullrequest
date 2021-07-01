@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou achando bem interessante o curso de git, iniciei utilizando o git hub desktop que vem cheio de abstrações, hoje estou bem feliz por entender como as coisas funcionam através das linhas de comando.
