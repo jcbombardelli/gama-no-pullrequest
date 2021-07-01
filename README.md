@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+🚀 Este curso esta D+!!
+Estou gostando muito das aulas e da didatica dos professores, o conteudo de git esta reforçando o que já aprendi, e agora estou aprendendo a fazer um pullrequest, incrível!!
