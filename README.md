@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+`Estou achando um curso bem completo e de fácil entendimento. Todos os instrutores realizaram explicações bem fáceis de se entender não deixando ao menos em mim surgir duvidas, por tanto estou me satisfazendo e me engrandecendo mais com cada aula.`
