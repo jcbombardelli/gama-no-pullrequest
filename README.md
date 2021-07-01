@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso me trouxe muitos insigts, mas alguns processos de execução não ficaram claros somente com a explicação do curso.
