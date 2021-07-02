@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito excelente! Principalmente até agora aparte de desenvolvimento pessoal.
