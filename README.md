@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Tem sido uma experiência incrível estudar programação, ainda mais num programa bem estruturado, com professores que detém uma excelente didática.
+
+Já me sinto vitorioso e alegre só de participando deste treinamento. Espero ficar entre os 300 finalistas e poder concorrer futuramente a uma oportunidade de trabalho na VTEX.
