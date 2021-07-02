@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou adorando. Todos os conteúdos são de alta qualidade e todos os professores ensinam de maneira clara e objetiva. Estou muito grato por ter essa oportunidade de particiar do hiring coders! Muito obrigado a todos os envolvidos.
