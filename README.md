@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito proveitoso, esta parte de git é algo que sempre me interessou e é bom finalmente desenvolver esta habilidade.
+Já quebrei muito a cabeça versionando código na marra.
