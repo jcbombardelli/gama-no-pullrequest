@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso está, de fato, perfeito para o melhor entendimento de assuntos que foram praticados há tempos.
