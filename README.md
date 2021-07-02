@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Tem sido muito enriquecedor! Para quem está vivenciando transição de carreira o curso tem sido um acolhimento, pois adquiri confiança para nortear meus estudos. 
+Também achei muito organizado e a metodologia é motivadora, parabéns a todos os envolvidos! :}
