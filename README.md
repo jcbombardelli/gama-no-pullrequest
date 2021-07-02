@@ -16,6 +16,6 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+O que estou achando do curso ? O curso é perfeito! Estou amando. JC, didática espetacular. Parabéns!
 
 Muito interessante!
