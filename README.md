@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso está sendo muito legal, pois estou apredendo em diversos aspectos.
