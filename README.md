@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Curso excelente, sobretudo por incentivar a prática imediata para fixar conteúdo e testar possibilidades.
+Parabéns a todos os envolvidos no Hiring Coders!!!
