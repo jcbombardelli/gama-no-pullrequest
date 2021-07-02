@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Extremamente didático para os iniciantes na área de programação assim como eu, estou gostando e aprendendo muito!
