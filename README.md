@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou achando o curso muito bom.
+Tanto em relação à qualidade do conteúdo, formato das aulas e pela organização fantástica nas plataformas. 
