@@ -18,4 +18,8 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+  Gostando muito, os comandos mais básicos já conhecia mas
+as branchs não tinha utilizado ainda.
+  Aprendendo bastante, conteudo muito bom, as explicações 
+são claras e objetivas.
+  Parabéns pelo ótimo trabalho.
