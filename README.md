@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Ta sendo mt massa tudo isso q eu to aprendendo!
