@@ -14,8 +14,9 @@
 
 `git push --set-upstream <remote> <branch>`
 
-## Abra um PullRequest com suas alterações
+## Super Javascript
 
-O que estou achando do curso ?
-
-Muito interessante!
+```JS
+const arr = ['script','Java']
+console.log(`Super ${arr[1]}${arr[0]}`)
+```
