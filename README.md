@@ -16,6 +16,6 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+### O que estou achando do curso ?
 
-Muito interessante!
+Os primeiros módulos estão sendo uma boa revisão dos conceitos de Git e básicos de programação e valiosas dicas de carreira. Acredito que mesmo quem não passar para a próxima fase vai fazer bom proveito dos conteúdos e tirar boas dicas e lições para sua carreira.
