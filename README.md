@@ -8,6 +8,8 @@
 
 #### Altere o arquivo README.MD e coloque suas impressões sobre este curso
 
+Nathalie Dias: Estou amando o curso e a experiencia!
+
 ##### Faça o commit da sua altetação
 
 #### Execute o comando
