@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso está me ajudando demais a manusear e entender o poder do GIThub
