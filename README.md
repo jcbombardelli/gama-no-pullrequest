@@ -19,3 +19,7 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+O curso de Git está sendo muito bom.
+
+Valeu!!!
