@@ -16,6 +16,8 @@
 
 ## Abra um PullRequest com suas alterações
 
+Gostei do Curso de versionamente do GIT bem explicado com exemplos praticos 
+
 O que estou achando do curso ?
 
 Muito interessante!
