@@ -18,4 +18,8 @@
 
 O que estou achando do curso ?
 
+Eu gostei! tive um pouco de dificuldade em poucas coisas, mas depos peguei o jeito.
+
+PLUS ULTRA!!!!!
+
 Muito interessante!
