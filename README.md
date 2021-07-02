@@ -1,4 +1,4 @@
-# Desafio Gama Pullrequest
+# # Desafio Gama Pullrequest
 
 ## Faça o FORK deste projeto
 
@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+#####  Muito interessante! Eu não sabia quase nada de git e agora estou familiarizada com o programa. :happy:
