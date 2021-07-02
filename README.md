@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou curtindo os exercícios e treinar diretamente na prática, em contato com quem está ensinando :)
