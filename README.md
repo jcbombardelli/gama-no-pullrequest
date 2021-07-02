@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso de git esta sendo muito bom para me lembrar dos conceitos e dos comandos
