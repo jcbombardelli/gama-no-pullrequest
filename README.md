@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Sensacional! Aulas super claras e objetivas, com "transformadores" excelentes. Estou muito satisfeita com a dedicação dos colaboradores e empenho de todos no slack.  
+
