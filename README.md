@@ -19,3 +19,7 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Feedback do Erik - Aula 7:
+
+O curso é perfeito!
