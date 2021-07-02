@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+<h2>Excelente didática!</h2> 
+<p>Parabéns a todos da Gama Academy!</p>
