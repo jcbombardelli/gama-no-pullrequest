@@ -18,4 +18,4 @@
 
 O que eu estou achando do curso?
 
-Estou achando desafiador, porém, bem estimulante, estou a cada me superando.
+Estou achando desafiador, porém, bem estimulante, estou a cada dia me superando.
