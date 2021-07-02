@@ -8,7 +8,9 @@
 
 #### Altere o arquivo README.MD e coloque suas impressões sobre este curso
 
-##### Faça o commit da sua altetação
+
+
+##### Faça o commit da sua alteração
 
 #### Execute o comando
 
@@ -18,4 +20,8 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou achando ótimo. O aluno tem liberdade para dividir
+bem o horário que irá dedicar ao curso, 
+tem mentorias semanalmente, 
+as instruções até agora estão bem claras 
+e, sobre as aulas, estou achando os professores bem diretos e claros.
