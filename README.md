@@ -18,4 +18,11 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+SENCACIONAL!!! unir os principais conceitos de forma muito bem exemplificada e no final nos propor esse desafio de colocar em prática todo conteúdo!!
+EMPOLGANTE!!
+
+O formato de short videos, nos permite rever com mais praticidade os conteúdos e partes com maior dificuldade.
+
+E isso proporcionou que eu retornasse aqui, para reeditar, aumentar e fixar o conteúdo, corrigindo pequenos erros e detalhes que no início pode não ter ficado claro e na revisão iluminou.
+
+Quem sabe até uma terceira visita praticando e adicionando novos aprendizados.
