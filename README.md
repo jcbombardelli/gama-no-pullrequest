@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito interessante! Ótimo conteúdo.
+Gostaria que a plataforma da GamaAcademy permitisse aumentar o tamanho de visualização da vídeo aula (sem ficar tela cheia), pra facilitar split screen entre vídeo e console
