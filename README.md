@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+  Estou muito animado e gostando do curso até aqui. Me aprimorando cada vez mais em relação a git e programação como um todo.
+ 
