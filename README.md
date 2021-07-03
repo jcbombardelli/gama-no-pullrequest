@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando muito, apesar de ser bem cheio e corrido está sendo bem divertido participar. Como eu já tinha um conhecimento prévio básico na área eu não estou tendo dificuldades mas imagino que com os próximos assuntos as coisas vão dificultar. Sobre o curso de GIT: está sendo ótimo, o treinador JC tem uma ótima didática e as aulas são muito boas.
