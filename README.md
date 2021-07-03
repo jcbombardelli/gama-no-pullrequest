@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+O curso está me trazendo muito aprendizado em muito pouco tempo. Nunca pensei que fosse aprender tanto tão rápido
