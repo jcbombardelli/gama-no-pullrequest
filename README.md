@@ -17,5 +17,5 @@
 ## Abra um PullRequest com suas alterações
 
 O que estou achando do curso ?
-
+Bem estruturado e prático
 Muito interessante!
