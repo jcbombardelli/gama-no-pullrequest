@@ -1,0 +1,1 @@
+O curso de Git da Gama Academy foi ótimo!
