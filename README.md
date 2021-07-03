@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou adorando. A parte de git já estou colocando em prática nos meus projetos.
