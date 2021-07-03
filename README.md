@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Ótimo curso, o professor tem uma didática excelente e conseguiu passar todo seu conhecimento no tempo adequado e de uma forma simples e eficiente.
