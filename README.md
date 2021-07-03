@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+A Didática é muito boa, estou me divertindo e aprendendo! Muito legal.
