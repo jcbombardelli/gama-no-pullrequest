@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O que falar sobre esse curso que mal conheço mas já considero pakas? Fora a dificuldade de fazer o meu git se comunicar com o git hub, tudo top. Acho que vale reforçar uma aula futura sobre essa etapa.
