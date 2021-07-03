@@ -15,7 +15,5 @@
 `git push --set-upstream <remote> <branch>`
 
 ## Abra um PullRequest com suas alterações
-
-O que estou achando do curso ?
-
-Muito interessante!
+Esse curso é bem interessante, pelo tempo em que é passado o conteúdo, fazendo com que a gente busque parte do aprendizado por conta própria.
+Além da grade atualizade e da comunidade onfire na ajuda ao outro.
