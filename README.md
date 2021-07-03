@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso é muito didático e, até o momento, muito completo. Gosto de aprender na prática e é isso que temos que fazer aqui!
