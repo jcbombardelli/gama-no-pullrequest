@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou achando este curso muito dinâmico e interativo! Parabéns aos criadores!
