@@ -11,7 +11,7 @@ Melhor do que ver os vídeos, é praticar e ver a mágica acontecer no meu compu
 ##### Faça o commit da sua altetação
 
 #### Execute o comando
-
+Coloquei na Branch do Renato
 `git push --set-upstream <remote> <branch>`
 
 ## Abra um PullRequest com suas alterações
