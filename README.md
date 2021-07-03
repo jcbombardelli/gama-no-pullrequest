@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Esta sendo maravilhoso. Tive dificuldades com o git, alguns comandos nao funcionaram comigo porem consegui resolver
