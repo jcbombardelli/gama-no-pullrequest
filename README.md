@@ -8,6 +8,8 @@
 
 #### Altere o arquivo README.MD e coloque suas impressões sobre este curso
 
+Estou amando esse curso, na boa, tava faltando isso na minha vida, obrigada VTEX, GamaAcademy, Aws, Wegigi e ACCT.
+
 ##### Faça o commit da sua altetação
 
 #### Execute o comando
