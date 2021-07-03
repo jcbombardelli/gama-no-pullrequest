@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-#####  Muito interessante! Eu não sabia quase nada de git e agora estou familiarizada com o programa. :happy:
+#####  Muito interessante! Eu não sabia quase nada de git e apesar de algumas dificuldades agora estou começando a me sentir familiarizada com o programa. :happy:
