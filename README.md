@@ -16,6 +16,7 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+O que estou achando do curso??
 
-Muito interessante!
+Até o momento o curso tem me proporcionado ótimas oportunidades de aprendizado,pois os instrutores e as vídeo aulas sempre tem exemplos práticos que podemos realizar e ver o resultado por nós mesmo.
+Além disso, o ambiente do Slack é bastante amistoso e colaborativo com todos se ajudando a resolver os eventuais entraves.
