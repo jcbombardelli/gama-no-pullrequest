@@ -18,4 +18,12 @@
 
 O que estou achando do curso ?
 
+Posso dizer que comi muita poeira na primeira aula, estou usando o ubuntu e demorei um pouco para entender as pastas ocultas e tive um problema de criação de arquivo via explorador de arquivos.
+
+Com isos, resolvi com o terminal utilizando o comando touch mesmo e deu muito certo. Consegui criar o index.html e o script.js e depois com o VSCode consegui realizar as alterações.
+
+O Git estou sendo desafiado pois o máximo que eu tinha mexido era html, css e um pouco de javascript através do programa grasshopper da Google.
+
+Posso dizer que a sensação de criar, de clonar, de fazer o add, o push e ver os arquivos aparecendo lá no Github é maravilhosa. :)
+
 Muito interessante!
