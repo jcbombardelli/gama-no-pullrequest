@@ -4,11 +4,13 @@
 
 ### Faça o Clone do projeto em sua conta
 
+
 ### Cria uma BRANCH iniciada em "gama/"
 
 #### Altere o arquivo README.MD e coloque suas impressões sobre este curso
 
 ##### Faça o commit da sua altetação
+
 
 #### Execute o comando
 
@@ -18,4 +20,8 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou adquirindo muitos conhecimentos em Git
+
+#HiringCoder2
+
+#GoGama
