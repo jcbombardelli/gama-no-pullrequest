@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Finalmente entendendo o fluxo de trabalho no git/github
