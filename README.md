@@ -16,6 +16,8 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
-
-Muito interessante!
+# O que estou achando do curso ?
+Estou gostando.
+Sim, soft skills são importantes, mas acredito que há muitos assignments muito "longes"
+de programação.
+As aulas de Git também deixam a desejar... 
