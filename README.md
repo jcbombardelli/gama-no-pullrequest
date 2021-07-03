@@ -16,6 +16,7 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
-
-Muito interessante!
+1.Fork Realizado
+2. Clone e Branch >> gama/rafael-laplace ( usei ifem só para vcs não me confundirem com Rafaella :) )
+3. Estou achando o curso maravilhoso e muito realista. #SkinTheGame
+   Anota meu nome: Rafael Laplace de Andrade
