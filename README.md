@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou aprendendo os comandos do git com muita clareza, professor muito bom
