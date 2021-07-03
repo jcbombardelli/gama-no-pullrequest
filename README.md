@@ -18,4 +18,11 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Curso Git e GitHub Gama Academy 👊
+Curso prático e com ótima didática. Ótimo guia!
+
+Professor: 👨
+Muito estilo;
+Ótima didática;
+Exemplos práticos;
+Fã do Bruce Banner💪🤓;
