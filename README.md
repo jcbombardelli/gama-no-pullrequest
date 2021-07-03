@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Me envolvendo bem e bastante empolgado!
+
