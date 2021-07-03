@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso está me surpreendendo, pois, consigo entender com objetividade o que os instrutores estão passando.
+Gostei da praticidade de poder assistir aos vídeos na hora que eu quero e na velocidade que mais gosto.
+Espero que corra tudo bem com os conteúdos e desafios.
