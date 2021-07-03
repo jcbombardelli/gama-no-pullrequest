@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Aprendi na prática muitos conceitos e técnicas que só conhecia mais na teoria. Gostei demais!
