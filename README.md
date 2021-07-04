@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Sensacional assim como a oportunidade de desenvovimento que a Gama está oferecendo para nosso desenvolvimento técnico, profissional e pessoal.
