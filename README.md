@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Até agora tem sido o único curso de Git que explica com usos do dia a dia reais! Muito legal.
