@@ -18,4 +18,7 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Está sendo bem completo. 
+Contudo, muitas vezes o professor acaba deixando de falar ou mostrar alguns passos a passos que seriam importantes de serem descritos. 
+Mas vejo que isso ocorre pois ele tem um conhecimento muito grande do assunto, e por serem situações consideradas muito básicas estes passos passam despercebido por ele.
+No entanto, está sendo uma oportunidade incrível para mim de aprender e me apaixonar ainda mais por esta área.
