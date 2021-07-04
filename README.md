@@ -1,6 +1,6 @@
 # Desafio Gama Pullrequest
 
-## Faça o FORK deste projeto
+## Faça o FORK deste projeto FEITO
 
 ### Faça o Clone do projeto em sua conta
 
@@ -18,4 +18,8 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Felizmente tô consiguindo.
+Adivinhando todos pos passos intermediários. KKKKK
+
+
+
