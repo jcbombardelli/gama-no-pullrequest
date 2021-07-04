@@ -19,3 +19,4 @@
 O que estou achando do curso ?
 
 Muito interessante!
+Curso Maravilhoso, muito eficiente e transformador.
