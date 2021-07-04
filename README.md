@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Ótima forma de passar o conteudo, bem leve e didático.
+Gostaria de ter visto antes de ter que aprender na marra.
