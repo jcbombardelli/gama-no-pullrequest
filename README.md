@@ -17,6 +17,6 @@
 ## Abra um PullRequest com suas alterações
 
 O que estou achando do curso ?
-Está sendo ótimo, está sendo um experiência muito legal o Hiring Coders, eu obsorvi muito coisa desse curso.
+Está sendo ótimo, está sendo um experiência muito legal o Hiring Coders, eu absorvi muito coisa desse curso.
 
 Muito interessante!
