@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito bom pois o uso do Git hub e muito importante para devs por metodo de backup ou por simplesmente poder voltar para versoes antigas onde nao ocorria um bug por exemplo
