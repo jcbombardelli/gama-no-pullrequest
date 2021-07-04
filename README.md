@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito interessante, eu tinha outra ideia de como o GIT funcionava, e ter a oportunidade de aprender com um ótimo professor é muito bom, ótimo conteúdo.
