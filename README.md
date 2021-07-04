@@ -16,6 +16,9 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
-
-Muito interessante!
+Olá a todos!
+Me chamo Guilherme Martins e estou participando do programa Hiring Coders da Gama Academy + VTEX.
+Todos os materiais aqui compartilhados estão sendo desenvolvidos a partir de práticas das aulas assistidas durante o programa.
+Estou satisfeito com o conteúdo que nos está sendo passado e já começo a enxergar aplicabilidade destes conceitos.
+Vamos que vamos, é só o começo e vamos fazer desse programa de capacitação um #GameChanger nas nossas carreiras.
+GM.
