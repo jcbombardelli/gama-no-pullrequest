@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
+Está muito bom, e acessivel a todos os conhecimentos
 Muito interessante!
