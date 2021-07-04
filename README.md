@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Sem sombra de dúvidas, tem sido muito interessante e enriquecedora essa experiência!
+Tenho aprendido muito não apenas hard skills, mas toda a base de soft skills tem sido um divisor de águas para mim.
