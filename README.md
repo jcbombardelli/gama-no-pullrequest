@@ -16,6 +16,6 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+O que estou achando do curso?
 
-Muito interessante!
+Gostei muito da parte das soft skills, aprendi muito, e esta parte de git também está sendo muito boa!
