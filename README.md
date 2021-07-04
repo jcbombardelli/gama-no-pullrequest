@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+## Thiago Oliveira Teberga
+
+Curso muito completo, conteúdos de qualidade e ótimos professores!
