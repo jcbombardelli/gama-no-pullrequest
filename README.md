@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou adorando o treinamento. Estou aprendendo diversos conteúdos e habilidades novos. 
