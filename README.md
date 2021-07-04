@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Feliz de conseguir chegar até aqui, ufa.
