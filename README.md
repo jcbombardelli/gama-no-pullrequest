@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso tem sido excelente. É ótimo poder ter treinamento não só técnico, mas também em soft skills.
+
+O curso tem pouco tempo, mas já tem acrescentado muito!
