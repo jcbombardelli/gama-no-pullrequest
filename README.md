@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou adorando os desafios do programa Hiring Coders, é um programa excepcional.
