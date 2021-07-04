@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Acho que faltou explorar mais os conceitos de o que o Git faz, mas a explicação dos comandos em si tá bem consisa!
