@@ -19,3 +19,9 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+_________________________________________
+
+O tempo passando e chego a pensar que aprendi pouco, mas ao final de cada módulo percebo muito conteúdo!
+
+JC, estou evoluindo!
