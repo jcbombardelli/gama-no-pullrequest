@@ -1,14 +1,14 @@
 # Desafio Gama Pullrequest
 
 ## Faça o FORK deste projeto
-
+Forkado ✔
 ### Faça o Clone do projeto em sua conta
-
+Clonado ✔
 ### Cria uma BRANCH iniciada em "gama/"
-
+Criada ✔
 #### Altere o arquivo README.MD e coloque suas impressões sobre este curso
-
-##### Faça o commit da sua altetação
+Alterado ✔
+##### Faça o commit da sua alteração
 
 #### Execute o comando
 
@@ -17,5 +17,4 @@
 ## Abra um PullRequest com suas alterações
 
 O que estou achando do curso ?
-
-Muito interessante!
+- Estou achando muito, mas muito produtivo! 
