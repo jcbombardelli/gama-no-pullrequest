@@ -8,7 +8,7 @@
 
 #### Altere o arquivo README.MD e coloque suas impressões sobre este curso
 
-##### Faça o commit da sua altetação
+##### Faça o commit da sua alteração
 
 #### Execute o comando
 
@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Está só começando, serão 11 semanas de muito conhecimento, a julgar até agora, muiiiiito mesmo!
