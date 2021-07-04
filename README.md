@@ -7,8 +7,9 @@
 ### Cria uma BRANCH iniciada em "gama/"
 
 #### Altere o arquivo README.MD e coloque suas impressões sobre este curso
+Estou achando o curso muito bom, sem muita enrolação e com boas práticas
 
-##### Faça o commit da sua altetação
+##### Faça o commit da sua alteração
 
 #### Execute o comando
 
