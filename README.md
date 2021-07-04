@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou impressionado com o conteúdo do curso! Muito obrigado pela oportunidade!
