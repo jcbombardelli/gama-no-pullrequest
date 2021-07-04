@@ -16,6 +16,13 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+Sobre o Treinamento, ele está sendo muito bacana, além de bem intenso e corrido.
 
-Muito interessante!
+A parte de "Soft Skills" achei excelente, desde tópicos como: Inteligência Emocional, Growth Mindset até Aprender a Aprender.
+
+Além da parte Técnica, os "Hard Skills", a parte inicial do treinamento é com foco em Front-End e Back-End.
+
+Ansioso pela parte com React, Node.Js e GraphQL. Que são as tecnologias que eu vejo em "alta".
+
+Nesse Atual Módulo de Github, agora estou aprendendo a fazer um Pull-Request, e como é uma visão geral de projetos Open-Source
+Com uma nova Branch criada, essa agora gama/erickeloi
