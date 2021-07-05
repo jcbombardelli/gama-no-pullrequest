@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+o curso está sendo muito proveito, poucos são os que disponibilizam essa quantidade e qualidade de aprendizado. espero muito entrar na vtex kkkkk
