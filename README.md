@@ -16,6 +16,5 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
-
-Muito interessante!
+O curso é exigente, rápido, focado no resultado e eu estou buscando aproveitar o máximo.
+A gama academy vai bombar meus estudos igual os raios gama bombaram o bruce.
