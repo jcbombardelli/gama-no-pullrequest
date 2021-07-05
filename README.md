@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso está impecável! Didática dos professores sensacional e as aulas estão incríveis. 
