@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Tive muita dificuldade para acompanhar a didática do JC e os exercícios propostos. Foi necessário recorrer a vários colegas e aulas de outros professores. Mas valeu o aprendizado.
