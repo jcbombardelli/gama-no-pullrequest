@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito interessante! Eu tenho aprendido bastante sobre soft skills e sobre GIT!
