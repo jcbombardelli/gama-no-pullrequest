@@ -18,4 +18,8 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Gostando bastante! To curtindo as aulas do git. Como posso resolver conflitos do 
+merge por outros editores? Tem algum comando?
+
+Atte,  
+
