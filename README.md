@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
+Estou revendo conteúdos e aprendendo coisas novas...
+
 Muito interessante!
