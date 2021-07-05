@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Obrigada pelo curso, JC! Sensacional até aqui!
+Aurilene Siqueira 
