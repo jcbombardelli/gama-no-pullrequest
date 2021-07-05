@@ -19,6 +19,3 @@
 O que estou achando do curso ?
 
 Cursos extremamente interessante, apesar de já conhecer um pouco de algumas tecnologias, está me ajudando muito todos os conteúdos, desde os bem iniciantes, a dinamica também se torna bem interessante devido aos professore se tempos de entregas, e acredito que o curso fornece um conteúdo muito valioso tanto para alguem que já está na área quanto para alguem que está querendo entrar.
-
-
-Muito interessante!
