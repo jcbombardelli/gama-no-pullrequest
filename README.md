@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Desafiador e excitante! Espero aprender cada vez mais!
