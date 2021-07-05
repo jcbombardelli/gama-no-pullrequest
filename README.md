@@ -1,4 +1,4 @@
-# Desafio Gama Pullrequest
+# Desafio Gama Pull request
 
 ## Faça o FORK deste projeto
 
@@ -8,7 +8,7 @@
 
 #### Altere o arquivo README.MD e coloque suas impressões sobre este curso
 
-##### Faça o commit da sua altetação
+##### Faça o commit da sua alteração
 
 #### Execute o comando
 
@@ -16,6 +16,6 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+O que estou achando do curso?
 
-Muito interessante!
+Ótimo!
