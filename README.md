@@ -18,4 +18,8 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Agora que estou terminando este módulo, posso dizer que estou muit satisfeito com os resultados.
+
+Só pelo fato de precisar colocar as mãos na massa para aprender como Git realmente funciona, consegui evoluir demais.
+
+Até o momento, o curso tá :green_heart:
