@@ -19,3 +19,7 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+O que você está achando do curso, Matheus Sereno?
+
+Muito informativo e completo! Obrigado à Gama Academy e à VTEX! :)
