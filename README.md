@@ -1,21 +1,3 @@
-# Desafio Gama Pullrequest
-
-## Faça o FORK deste projeto
-
-### Faça o Clone do projeto em sua conta
-
-### Cria uma BRANCH iniciada em "gama/"
-
-#### Altere o arquivo README.MD e coloque suas impressões sobre este curso
-
-##### Faça o commit da sua altetação
-
-#### Execute o comando
-
-`git push --set-upstream <remote> <branch>`
-
-## Abra um PullRequest com suas alterações
-
-O que estou achando do curso ?
-
-Muito interessante!
+Estou curtindo muuuito os conteudos e abordagens do curso!
+A maneira que os assuntos são explicados ajuda muito na absorção de conteúdo.
+Bom demaissss!
