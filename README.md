@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou curtindo muito, pois ja tinha visto outros videos e não tinha entendido e agora consegui fazer todas as operações.
