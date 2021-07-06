@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Para iniciante é um conteúdo bem desafiador!
