@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Está sendo um curso muito interessante e dinâmico, estou aprendendo várias linguagens de programação de uma forma rápida e criativa!
