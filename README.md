@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou achando maravilhoso! A partir dele estou conseguindo pesquisar novos assuntos e me envolver cada vez
+mais com a comunidade! Além de todos os novos aprendizados.
