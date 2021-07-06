@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Bem didático. Essa parte de versionamento mesmo tá show! Os TEDS são ótimos =)
