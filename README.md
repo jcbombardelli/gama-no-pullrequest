@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+O curso está sendo muito bom até o momento, estou aprendendo demais! Se puder fazer uma crítica construtiva, acho que as aulas sobre git poderiam ser mais explicativas. Acho que em alguns momentos o professor passa muito rápido sobre alguns assuntos. 
