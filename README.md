@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou adorando o Hiring Coders, muito sucesso para todos que estão nessa jornada 🚀
