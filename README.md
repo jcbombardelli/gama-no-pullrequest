@@ -19,3 +19,7 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Estou gostando muito! Todo esse universo de Git e GitHub são novidades pra mim e, apesar do conteúdo ser bastante extenso, o instrutor explica muito bem e os participantes ajudam muito pelo Slack!
+
+Nota 10!
