@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Apanhei muito pra chegar ate aqui, mas to amando!!
