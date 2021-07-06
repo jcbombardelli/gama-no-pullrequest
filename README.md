@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso está sendo sensacional! Estou gostando pois podemos aprender na prática, leva mais tempo porém o aprendizado fixa em nossa mente.
