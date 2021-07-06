@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou achando muito bom! Porém um pouco superficial às vezes, porém estou apenas no começo, talvez essa seja uma impressão precipitada.
