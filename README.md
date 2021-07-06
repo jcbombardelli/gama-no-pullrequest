@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Conciso e esclarecedor, já havia esquecido de alguns pontos por ter me acostumado com github-desktop/git no vscode
