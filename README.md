@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Bem direto ao ponto. Didática excelente! Gostei muito do conteúdo.
+Bem direto ao ponto. Didática excelente!
