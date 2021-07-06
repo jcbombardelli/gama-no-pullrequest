@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito bom, até agora foi o curso mais detalhado que eu ja estudei!
