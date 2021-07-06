@@ -16,6 +16,6 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
-
-Muito interessante!
+>> Estou adorando a experiência do curso! A apresentação visual e de ementa das 
+aulas é ótima e a interação dos organizadores, tanto no Slack quando nas lives
+é excelente. Espero aproveitar o máximo possível!
