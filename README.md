@@ -16,6 +16,5 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
-
-Muito interessante!
+Eu Partiicularmente estou achando incrível essa possibilidade de 10 mil pessoas poderem se capacitar para o mercado de trabalho com os melhores no setor.
+Obrigado Gama Academy pela oportunidade e muito sucesso nos projetos futuros!!
