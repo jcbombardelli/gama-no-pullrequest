@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Devo dizer que esse é um dos melhores treinamentos que já vi. Ele não é apenas um simples treinamento de habilidades de programação mas inclui todo um roteiro buscando trabalhar as hoje popularmente conhecidas como Soft skills, tais como Inteligência Emocional, Autoconhecimento e Autogestão.
