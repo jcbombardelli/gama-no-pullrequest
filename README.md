@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito interessante! Estou gostando muito e aprendendo bastante sobre vários assuntos diferentes relacionados ao mundo dev. :)
