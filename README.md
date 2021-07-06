@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou achando o curso muito legal, cheio de conteúdo interessante e que é primordial na carreira de desenvolvedor.
