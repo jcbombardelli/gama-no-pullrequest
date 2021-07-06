@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou amando, aprender em um ambiente aberto a contribuições, descontraido e inovador é maravilhoso. Obrigada!
