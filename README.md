@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Bastante e bons conteúdos, mas poderia explicar um pouco melhor os erros que acontecem enquanto o professor faz as modificações.
