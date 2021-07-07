@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito interessante e bom para mim, que nunca usei o github como ferramenta para meus projetos, agora vou conseguir usar e compartilhar melhor meus projetos.
