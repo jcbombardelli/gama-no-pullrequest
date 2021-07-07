@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando muito. Achei bem prático e gostei que está indo direto ao ponto nos assuntos. 
+Muito conteúdo relevante. Está bastante intenso. Não pude participar muito semana passada, mas já pego o ritmo :D
