@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou amando demais! Tô me esforçando para ser um dos finalistas!!
