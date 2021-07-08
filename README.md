@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando bastante. Estou achando maravilhoso o conteúdo. Estou me sentindo mais motivada a cada vídeo-aula assistida.
