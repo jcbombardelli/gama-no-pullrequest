@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+estou descobrindo novas tecnologias e aprendendo bastante com os conteúdos, o curso está incrivel.
