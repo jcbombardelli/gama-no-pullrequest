@@ -16,6 +16,9 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+ 
+### 📋 💻  O que estou achando do curso?
 
-Muito interessante!
+
+Estou gostando bastante. A Gama realmente possui um excelente material técnico e desenvolve as hard skills. 
+Neste curso de Git estou treinando muitos commandos o que me deixa mais ágil na atuação em projetos em equipe e colaborativos. Grata :)
