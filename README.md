@@ -18,5 +18,5 @@
 
 O que estou achando do curso ?
 
-nataliciojr - Curso muito prático, estou aprendendo no curso da Gama Academy, processo Itau Tech...
+nataliciojr - Curso muito prático, estou aprendendo no curso da Gama Academy, processo Itau Tech......
 
