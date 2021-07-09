@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Curso sensacional!!!
+
+Estou apanhando do git!!!
