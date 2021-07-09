@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso é maravilhoso, sinto que estou absorvendo conhecimentos extremamente importantes para o meu futuro na carreira de TI!
