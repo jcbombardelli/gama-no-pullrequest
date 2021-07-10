@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Os conteúdos no geral são bem interessantes, alguns eu já tinha visto anteriormente em algum momento da vida, seja na faculdade ou em algum trabalho. Infelizmente tem alguns pontos que poderiam ser melhor abordados, como as vezes você fazendo a mesma coisa que o professor do video e o código apresenta algum erro. Imagino que deveria ao menos ser dito que esses erros podem acontecer e tals.
