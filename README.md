@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+É um curso muito intenso, mas está sendo muito interessante e produtivo!
