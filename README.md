@@ -18,6 +18,6 @@
 
 O que estou achando do curso ?
 
-Estou satisfeita com a parte de soft skills.
+Soft skills está show!
 
 
