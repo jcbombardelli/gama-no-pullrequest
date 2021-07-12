@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito legal, ja tinha usado git antes, entao nao me soa estranho usar ele, mas a maneira como abordaram as aulas com videos curtos e inforamacoes bem diretas achei bem pratico
