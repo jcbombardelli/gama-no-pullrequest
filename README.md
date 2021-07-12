@@ -1,21 +1,9 @@
-# Desafio Gama Pullrequest
+# Aula Gama Pullrequest
+Aula para aprender o que é Fork, como clonar um repositório para sua máquina, alterar a branch, comitar e utilizar o comando `git push --set-upstream <remote> <branch>`, oferecido pelo Programa Hiring Coders da [Gama Academy](https://www.gama.academy/) em parceria com a [VETX](https://vtex.com/br-pt/) e outros parceiros:
+[AWS](https://aws.amazon.com/pt/), [WeDigi](https://www.wedigi.com.br/), [ACCT](https://acct.global/pt/), [Corebiz](https://www.corebiz.ag/pt/) e [Whirlpool](https://www.whirlpool.com.br/), 
 
-## Faça o FORK deste projeto
+## Autor
+[Thyrson Resquin](https://www.linkedin.com/in/thyrson-resquin/)
 
-### Faça o Clone do projeto em sua conta
-
-### Cria uma BRANCH iniciada em "gama/"
-
-#### Altere o arquivo README.MD e coloque suas impressões sobre este curso
-
-##### Faça o commit da sua alteração
-
-#### Execute o comando
-
-`git push --set-upstream <remote> <branch>`
-
-## Abra um PullRequest com suas alterações
-
-O que estou achando do curso ?
-Curso ótimo, o professor Bombardelli tem uma didática boa, de fácil entendimento. Confesso que apanhei bastante com esse módulo, fiquei muito mais tempo do que o previsto para conseguir absorver e acompanhar o curso.
-Muito interessante!
+## Créditos
+[JC Bombardelli](https://github.com/jcbombardelli)
