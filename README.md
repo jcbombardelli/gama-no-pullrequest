@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Gostei desse formato de videos rapidos e os conteudos passados.
