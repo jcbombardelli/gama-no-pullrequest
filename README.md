@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Acredito que o XP é um grande passo na direção de um aprofundamento nos temas: tecnologia, trabalhar em equipe e auto-gerenciamento. Tem sido uma oportunidade de incríveis aprendizagens.
