@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso e bem diferenciado, e com toda certeza é o melhor que já tive oportunidade de conhecer!
