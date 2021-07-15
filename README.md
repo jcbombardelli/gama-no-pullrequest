@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando muito do curso com bastantes conteúdos 
+relevantes e importantes para o meio da programação. 
+Os professores são de altíssimo gabarito!
