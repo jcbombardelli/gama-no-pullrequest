@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou achando o curso show de bola!, aprendi assuntos novos em poucos dias, Obrigado pelo curso!!
