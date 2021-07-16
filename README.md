@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Estou gostando bastante, animada para aprender mais coisas!
+Estou gostando bastante, animada para aprender mais coisas futuramente!
