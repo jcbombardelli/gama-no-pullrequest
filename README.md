@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Rápido porém interessante! Gostei!
+Ready to fly! 
