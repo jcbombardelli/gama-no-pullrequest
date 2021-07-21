@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Difícil e confuso.
+GIT não é usual e não é fácil entender. Precisei de diversas tentativas até conseguir qualquer coisa e buscar em fóruns do stackoverflow.
+Em se tratando de ser um curso pra iniciante, o curso é muito avançado e pouco explicativo, não explica detalhes que seriam básicos.
