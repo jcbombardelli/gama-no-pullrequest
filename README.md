@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Este curso de git foi muito util, muito mesmo gostei muito, Obrigado!!
