@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O audio e video do curso tem excelente qualidade e a didatica é nota 10!
