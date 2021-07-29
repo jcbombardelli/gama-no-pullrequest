@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso tem muitos aspectos interessantes. Ainda estou tentando organizar minha rotina pra me dedicar mais, mas estou conseguindo acompanhar bem.
