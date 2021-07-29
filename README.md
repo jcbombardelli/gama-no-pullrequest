@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou aprendendo muita coisa interessante que com certeza vai agregar na minha carreira como DEV.
