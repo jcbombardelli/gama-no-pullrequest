@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Até o momento a experiência tem sido muito enriquecedora. Cada vez que conheço mais a Omega Energia e a Gama Academy fico cada vez mais encantado! O treinamento exige uma boa gestão de tempo e comprometimento, e é o que tenho feito, com gosto. Estou aprendendo bastante e também podendo revisar coisas que já tinha mais experiência. Vendo a evolução que estou tendo fico cada dia mais enérgico para aprender e ansioso para saber quais serão os próximos treinamentos disponibilizados. A felicidade por estar participando desse processo é imensa e sou muito grato a isso!! Espero que todos os candidatos consigam ter sucesso ao fim do programa. Vamos em busca de transformar vidas junto com vocês!
