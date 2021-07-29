@@ -19,3 +19,7 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+[Romário Melo](https://github.com/romariomelo)
+
+> O Curso está sendo muito bem proveitoso.
