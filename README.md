@@ -18,5 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
-Excelente curso!!
+Excelente curso!! estou aprendendo muito e em pouco tempo!
