@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou achando incrível, aos poucos me tornarei um mago como você mestre.
