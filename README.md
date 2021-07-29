@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou amando a didática do curso Gama, isto e essencial para quem está iniciando em programação.😍💜 
+
