@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
+Dentre o que vi do Gama Experience 38, o curso de GIT até agora é o melhor.
+
 Muito interessante!
