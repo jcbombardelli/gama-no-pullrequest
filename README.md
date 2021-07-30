@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+De inicio é o que um programador realmente precisa como base para o desenvolvimento de sua carreira e está sendo um grande desafio
