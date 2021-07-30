@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou adorando o curso, aprendendo muito sobre a ferramenta do GIT, como suas funcionalidades e alguns comandos básicos que são bastante importantes. Conhecimento é tudo. Vamos que vamos! Foco sempre. 
+
