@@ -17,5 +17,6 @@
 ## Abra um PullRequest com suas alterações
 
 O que estou achando do curso ?
+Sensacional, Parabenizar a todos da Gama Academy pela dedicação em produzir um conteúdo de excelente qualidade!
 
 Muito interessante!
