@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Curso star tech intenso, cheio de conteúdo. Muito legal
