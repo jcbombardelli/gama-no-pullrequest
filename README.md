@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou achando o curso incrível. A ordem de apresentação dos conteúdos foi muito bem elaborada, pois permite que iniciantes aprendam desde o começo e vão construindo o aprendizado conectando os assuntos. E os professores são ótimos, com explicações claras e didática bem desenvolvida.
