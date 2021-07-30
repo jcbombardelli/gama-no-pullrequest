@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Estou aprendendo muito e vejo nele a oportunidade de entrar no mercado de trabalho na área de T.I.
+Estou aprendendo muito e vejo nele a oportunidade de entrar no mercado de trabalho na área de T.I.!
