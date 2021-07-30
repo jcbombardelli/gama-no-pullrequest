@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou aprendendo muito, me dedicando bastante. As aulas são ótimas e a didatica dos professores é muito fluida. No entanto, sempre temos que buscar informações por fora, para complementar e fortalecer o aprendizado.
