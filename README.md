@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou amando, para mim está sendo uma experiencia incrível! Tenho certeza que esses novos aprendizados terá um papel importante em minha transição de carreira.
