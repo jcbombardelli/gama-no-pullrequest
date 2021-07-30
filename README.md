@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou achando o curso bem difícil, para ser bem sincera! Mas aos poucos vamos entrando no ritmo
