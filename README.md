@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Depois que consegui "me achar" estou gostando muito, tendo mais certeza que a carreira de Full Stacker é pra mim! Obrigada Gama e Ambev pelo programa StartTech!
