@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Até agora tem sido bastante interessante, conteúdo bacana e bom para revisar conceitos básicos.
