@@ -1,4 +1,4 @@
-# Desafio Gama Pullrequest
+﻿# Desafio Gama Pullrequest
 
 ## Faça o FORK deste projeto
 
@@ -17,5 +17,7 @@
 ## Abra um PullRequest com suas alterações
 
 O que estou achando do curso ?
+
+Estou gostando!!
 
 Muito interessante!
