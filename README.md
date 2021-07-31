@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Já nesse começo, o curso está muito empolgante e rico de conhecimentos!!!
