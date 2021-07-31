@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Arthur Leonardo:  Achei de bastante proveito o conteudo e facil entendimento. Unica parte que acho que falta um reforço. É na criação de chave e na autenticação por conta pelo githut, quem nunca usou sente um pouco de dificuldade.
