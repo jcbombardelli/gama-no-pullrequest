@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
+Estou muito feliz por ter sido contemplada com a bolsa de estudos.Participar desse projeto significa muito para minha vida profissional e pessoal também. O roteiro de estudo foi muito bem organizado, é muito bom poder interagir com meus colegas e também com professores, mesmo sem a possíbilidade de ter aulas presenciais eu ainda me sinto como se eu estivesse em uma sala de aula!
+
 Muito interessante!
