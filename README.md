@@ -17,5 +17,8 @@
 ## Abra um PullRequest com suas alterações
 
 O que estou achando do curso ?
-
-Muito interessante!
+Jc, o curso é interessante e bastante desafiante!</br>
+A parte do GIT tem comandos simples, mas para o</br>
+entendimento é necessário muita dedicação.</br>
+Em resumo, estou gostando muito!
+Ana Gimenez
