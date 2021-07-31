@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Interessante, mais poderia ser mais didático considerando a falta de conhecimento de algumas pessoas.
+Percebo que alguns passos são pulados ou passados muito rapidamente, como é um universo completamente novo, se torna bem desgastante.
