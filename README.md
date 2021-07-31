@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+##Está sendo um grande apreendizado :bookmark_tabs:
