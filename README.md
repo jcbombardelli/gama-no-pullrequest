@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso está sendo um divisor de águas e extremamente importante. Obrigada
+
