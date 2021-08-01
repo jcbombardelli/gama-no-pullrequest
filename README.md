@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou adorando mas alguns topico tenho duvida e vou pesquisar no Google 
+como resolver
