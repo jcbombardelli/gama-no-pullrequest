@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Sim o git e realmente muito interessante para gerenciar as versões de um projeto
