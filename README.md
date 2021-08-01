@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Adorei a dinâmica do curso! Aprendendo muito com esse conteúdo!!
