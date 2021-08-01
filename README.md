@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Bem bacana, muita informação do git, ainda estou aprendendo.
