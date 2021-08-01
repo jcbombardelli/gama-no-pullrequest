@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Aulas práticas e diretas ao ponto, estou gostando muito do curso até aqui!
