@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito bom!
+Sem exagero de conteúdo, muito objetivo.
