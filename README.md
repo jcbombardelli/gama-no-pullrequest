@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito interessante! O curso Start-Tech da Gama Academy está me ensinando muito sobre GIT.
