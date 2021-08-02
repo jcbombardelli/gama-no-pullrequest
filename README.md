@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso é excelente! Os conceitos são muito bem explicados e qualquer pessoa iniciante em programação consegue entender.
