@@ -18,4 +18,7 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Incrível! Adorei as aulas até o momento, são dinâmicas, rápidas e concisas.
+
+Gostaria apenas de fazer um adendo, caso isto seja lido, acredito que faltou um vídeo no módulo de Git, a respeito do GitHub, que acabou causando dificuldades na execussão dos comandos para acompanhar o conteúdo.
+Adorei a forma de ensinar do JC, mas acredito que para iniciantes, possa ter sido um pouco complicado, por não ter um maior detalhamento.
