@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou achando o curso muito bom e enriquecedor, e tenho algumas dúvidas sobre o uso do GitBash.
+Tenho expectativa de assimilar bem esse conteúdo e APRENDER conseguindo assim por em prática todo conhecimento adquirido.
+Jaqueline Rodrigues
