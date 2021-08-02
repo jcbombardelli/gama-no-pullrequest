@@ -17,4 +17,4 @@
 ## Abra um PullRequest com suas alterações
 
 O que estou achando do curso ?
-Estou curtindo muito e arendendo cada dia mais!!!!
+Estou curtindo muito e arendendo cada dia mais!!!
