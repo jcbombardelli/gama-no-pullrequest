@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito profundo, muito complexo, muito completo e muito dificil.
