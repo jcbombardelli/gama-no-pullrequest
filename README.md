@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Orra veí meu primeiro curso de Github, me ensinando muitíssimo! Gratidão 😍
