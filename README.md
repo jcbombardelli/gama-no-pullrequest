@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso realmente é envolvente e instiga a querermos mais, a aprofundarmos o conhecimento.
