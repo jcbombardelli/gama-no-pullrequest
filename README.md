@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou amando o curso! A idéia de por a mão na massa junto da teoria me faz sentir que estou aprendendo de verdade!
