@@ -1,21 +1,4 @@
-# Desafio Gama Pullrequest
+# Minhas impressões sobre o curso da Gama Academy
 
-## Faça o FORK deste projeto
-
-### Faça o Clone do projeto em sua conta
-
-### Cria uma BRANCH iniciada em "gama/"
-
-#### Altere o arquivo README.MD e coloque suas impressões sobre este curso
-
-##### Faça o commit da sua altetação
-
-#### Execute o comando
-
-`git push --set-upstream <remote> <branch>`
-
-## Abra um PullRequest com suas alterações
-
-O que estou achando do curso ?
-
-Muito interessante!
+* Só tenho agradecimento e elogios a fazer sobre esse curso da Gama Academy.
+  os professores nos enriquecem com os seus conteudos e suas experiências. *
