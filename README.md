@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Apesar de ser um conteúdo complexo, os conceitos introdutórios são claros. No entanto, seria interessante aprofundar alguns conceitos-chave para aqueles de nós que estamos fazendo nossa primeira aproximação ao git
