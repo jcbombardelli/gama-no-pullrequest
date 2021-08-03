@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Curso bem dinâmico, com muito conteúdo passado de forma clara e objetiva.
