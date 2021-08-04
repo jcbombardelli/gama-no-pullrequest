@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Está sendo intenso positivamente!
+Tem sido intenso positivamente!
