@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou aprendendo muitas coisas novas, visto que estou iniciando agora no mundo da programação. O curso esta sendo bem interesante e de muito aprendizado!
