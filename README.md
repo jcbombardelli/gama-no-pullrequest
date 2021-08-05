@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Incrível! Aprendendo coisas que nunca imaginei que conseguiria aprender!! =)
