@@ -16,6 +16,5 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
-
-Muito interessante!
+O que eu estou achando do curso da GamaAcademy?
+O curso está muito interessante, podendo absorver o máximo de conteudo ! Gratidão.
