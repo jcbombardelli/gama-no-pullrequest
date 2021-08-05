@@ -20,4 +20,4 @@ O que estou achando do curso ?
 
 Muito interessante!
 
-O curso pode ser complexo de assimilar para um iniciante, mas é muito divertido!
+O curso é complexo para iniciante, mas é divertido aprender!
