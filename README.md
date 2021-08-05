@@ -18,4 +18,10 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Excelente!
+
+Apesar de ser inciante, consegui acompanhar todos os comandos.
+
+Muito feliz por isso. 
+
+
