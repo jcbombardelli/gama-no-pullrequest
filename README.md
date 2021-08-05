@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso é legal, todo o desafio é uma maravilha fazer, mas, para ser sincera, me sinto o pica-pau biruta na maioria das vezes.
