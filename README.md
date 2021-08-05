@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+O curso é complexo para iniciante, mas é divertido aprender!
