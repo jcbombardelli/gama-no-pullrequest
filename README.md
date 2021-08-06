@@ -4,7 +4,7 @@
 
 ### Faça o Clone do projeto em sua conta
 
-### Cria uma BRANCH iniciada em "gama/"
+### Cria uma BRANCH iniciada em "gama/"git
 
 #### Altere o arquivo README.MD e coloque suas impressões sobre este curso
 
@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou achando muito interessante!!!
