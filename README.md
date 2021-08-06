@@ -19,3 +19,8 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Estou muito contente por, apesar de algumas dificuldades, ter conseguido executar todos os comandos no Git até o momento. Espero conseguir alcançar o módulo conforme o planejamento até domingo. 
+Estou gostando bastante do curso, mas estou um pouco frustrada por estar atrasada e não estar conseguindo acompanhar muito o Slack.
+
+Bora!
