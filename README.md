@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito interessante! Tanto que estou ansiosa pelos próximos passos!! Do zero pra uma full stack!
