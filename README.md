@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito interessante!! Porém muito desafiador para quem está começando do zero, mas com muita prática e estudo vai ser recompensador!
