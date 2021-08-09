@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Bem descritivo e intuitivo, mesmo para quem nunca tinha mexido com GIT.
