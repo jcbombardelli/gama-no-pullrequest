@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito bom, aprendando bastante!!
+Muito bom, aprendendo bastante!!
