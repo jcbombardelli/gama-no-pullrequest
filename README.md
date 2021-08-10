@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Eu acho que as aulas poderiam estar todas juntas, ao invés de separadas por tópicos.
+Elas poderiam vir mais detalhadas, pois por vezes tive que recorrer ao youtube/slack para entender como fazer.
+Eu achei os desafios muito extensos, tinha um vídeo de mais de uma hora, acho cansantivo assistir a um vídeo desses, seria mais interessante, vídeos de no máximo 15 min.
