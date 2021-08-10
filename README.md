@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Estou gostando bastente!
+Estou gostando bastante!
