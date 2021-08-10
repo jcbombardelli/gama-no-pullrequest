@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Estou gostando bastante!
+Estou gostando bastante do curso e dos professores!
