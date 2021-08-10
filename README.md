@@ -16,6 +16,4 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
-
-Muito interessante!
+Estou achando o curso bem simples e completo, aprendo de uma forma que aparenta ser óbvia e que me contempla demais; além de desenvolver nossas softs skills de uma forma muito empolgante e natural. curso completo para que tenhamos uma formação T e tenhamos sempre a mente empreendedora!
