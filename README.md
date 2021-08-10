@@ -5,7 +5,7 @@
 ### Faça o Clone do projeto em sua conta
 
 ### Cria uma BRANCH iniciada em "gama/"
-git checkout -b gama/NeirianeAmorim
+ gama/NeirianeAmorim
 #### Altere o arquivo README.MD e coloque suas impressões sobre este curso
 O que estou achando do curso?
 O curso Muito interessante!!!!
