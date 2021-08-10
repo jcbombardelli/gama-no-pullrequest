@@ -11,7 +11,7 @@ O que estou achando do curso?
 O curso Muito interessante!!!!
 Muita coisa a aprender \O/
 ##### Faça o commit da sua altetação
-Git commit -am "contribuição do projeto"
+"contribuição do projeto"
 #### Execute o comando
 
 `git push --set-upstream <remote> <branch>`
