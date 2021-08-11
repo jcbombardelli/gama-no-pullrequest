@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando do curso da gama em geral, mas sinto que git não é muito minha praia! Haha, desculpa, quem sabe o gosto venha com o tempo. Mas estou impressionada com o tanto de coisa legal que dá pra fazer.
