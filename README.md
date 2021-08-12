@@ -17,5 +17,8 @@
 ## Abra um PullRequest com suas alterações
 
 O que estou achando do curso ?
+Bastante animador! 
+Incrivel!!!
+
 
 Muito interessante!
