@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Bom conteúdo, porém apresentado muito rápido e com poucos detalhes. Difícil de acompanhar
