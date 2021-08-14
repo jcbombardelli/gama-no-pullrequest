@@ -18,4 +18,7 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando muito do curso até agora!
+Tendo a oportunidade de me aprofundar em diversos temas que tenho muito interesse. 
+A possibilidade de viver uma experiência hands-on como esta é muito gratificante.
+Estou empenhada em aprender e aproveitar o curso ao máximo!
