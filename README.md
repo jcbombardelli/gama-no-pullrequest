@@ -16,6 +16,6 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+O que está achando do curso?
 
-Muito interessante!
+Está fluido bastante, com metodologia de ensino na prática, deixa de ser um bicho de sete cabeças.
