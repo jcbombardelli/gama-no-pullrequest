@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
+O curso é muito direto ao ponto, sem enrolação. Gostei. Obrigada JC
+
 Muito interessante!
