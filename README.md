@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+A proposta do curso é interessante, porém, estou tendo dificuldades em acompanhar algumas aulas, vejo uma carência do passo a passo para quem nunca nem abriu um editor de texto antes.
+Os conteúdos poderiam ser mais destrinchados e organizados em algumas aulas, explicando por exemplo como instalar os programas levando em consideraçao as particularidades de cada sistema operacional, ou por exemplo considerar que o que é óbvio para um programador, não o é para alguém iniciante que pode se perder facilmente caso falte alguma informação ou passo.
