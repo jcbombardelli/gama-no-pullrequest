@@ -7,7 +7,7 @@
 ### Cria uma BRANCH iniciada em "gama/"
 
 #### Altere o arquivo README.MD e coloque suas impressões sobre este curso
-
+Esse curso elucidou conceitos de versionamento de código usando github
 ##### Faça o commit da sua altetação
 
 #### Execute o comando
