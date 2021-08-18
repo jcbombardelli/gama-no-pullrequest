@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O grande diferencial está nos exercícios, colocar a mão na massa desde o primeiro conteúdo e de extrema importância para a fixação do conhecimento.
