@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Divertido e leve de fazer, estou adorando muito haha
