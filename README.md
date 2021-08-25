@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou achando o curso muito interessante e este módulo até agora é o que mais me desafiou
