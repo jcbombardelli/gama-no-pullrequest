@@ -18,4 +18,7 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou achando bem interessante
+Tive uma dúvida na parte do git clone e pull
+No exercicío pra fazer sozinho
+Mas o restante tá indo .
