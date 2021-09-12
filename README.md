@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito bom, curso rápido e objetivo.
+
+Finalizando o curso.
