@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Maravilhoso, estou perplexo o quanto estou aprendento em tão pouco tempo!
