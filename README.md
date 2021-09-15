@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
+Como não tenho costume de usar o prompt de comando tive alguns problemas pois não sabia se estava usando o git de forma errada ou era minha inaptidão com o cmd. De qualquer forma pesquisando consegui tirar minhas dúvidas e pude aproveitar melhor a aula.
+
 Muito interessante!
