@@ -18,4 +18,7 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+gama/Roberto Antonio Tavares
+
+Estou achando muito interassante este treinamento há tempos quis fazer  curso do tipo, isso foi em 2011 e hpje venho colocado a mão na massa estou costando muito independete de resultado final pretendo me aprofundar no aprendizado.
+Mmuito obrigado pelas indrodução ao curso.
