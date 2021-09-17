@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante, extremamente impolgante aprender a usar essa ferramenta!
+Muito interessante, extremamente empolgante aprender a usar essa ferramenta!
