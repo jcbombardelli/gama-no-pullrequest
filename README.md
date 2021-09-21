@@ -8,7 +8,7 @@
 
 #### Altere o arquivo README.MD e coloque suas impressões sobre este curso
 
-##### Faça o commit da sua altetação
+##### Faça o commit da sua alteração
 
 #### Execute o comando
 
@@ -17,5 +17,8 @@
 ## Abra um PullRequest com suas alterações
 
 O que estou achando do curso ?
+
+excelente, otima didatica... 
+
 
 Muito interessante!
