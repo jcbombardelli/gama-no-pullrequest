@@ -16,6 +16,6 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+O que eu estou achando do curso :grey_question:
 
-Muito interessante!
+Estou achando deveras interessante :sunglasses:
