@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Curso está sendo muito bom, com bastante prática e exercícios que facilitam a explicação.
