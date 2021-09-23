@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou achando sensacional, é o meu sonho desde entrei na faculdade trabalhar com programação e espero que nesse curso der tudo certo!
