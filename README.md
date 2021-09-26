@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Gostei muito do curso, ja havia tido esperiência com GIT mas precisava relembrar alguns conceitos, nota 10!!!
