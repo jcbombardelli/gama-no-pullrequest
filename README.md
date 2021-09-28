@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Gratidão por tanto aprendizado! Banco PAN ai vou eu!
