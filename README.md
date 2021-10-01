@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando bastante pois tinha muita dificuldade em entender os conceitos e comandos do Git e agora consegui entender.
