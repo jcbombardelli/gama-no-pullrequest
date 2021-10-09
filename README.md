@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Sem dúvidas este é o melhor curso que existe sobre o tema.
+
+O mais top.
