@@ -19,3 +19,6 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Parabéns excelente curso, aluno Gastão.
+  
