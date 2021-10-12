@@ -17,5 +17,5 @@
 ## Abra um PullRequest com suas alterações
 
 O que estou achando do curso ?
+O curso é interessante, mas sinto falta dos materiais de suporte mencionados nas aulas assíncronas (como slides, alguma referência de texto/leitura para melhor assimilar os conteúdos). Estudar com meus amigos faz ser mais dinâmico.
 
-Muito interessante!
