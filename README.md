@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-BOm pra caramba, inclusive divertido.
+Bom pra caramba, inclusive divertido.
