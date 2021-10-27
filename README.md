@@ -7,7 +7,7 @@
 ### Cria uma BRANCH iniciada em "gama/"
 
 #### Altere o arquivo README.MD e coloque suas impressões sobre este curso
-
+ola mundo 
 ##### Faça o commit da sua altetação
 
 #### Execute o comando
@@ -16,6 +16,4 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
-
-Muito interessante!
+Me contrata B3!
