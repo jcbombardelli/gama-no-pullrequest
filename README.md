@@ -16,6 +16,6 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+O que estou achando do curso?
 
-Muito interessante!
+Curso muito bom! Sucesso! Tenho certeza que vou aprender muita coisa para começar minha carreira como desenvolvedor.
