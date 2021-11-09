@@ -18,4 +18,4 @@
 
 O que estou achando do curso?
 
-Curso muito bom! Sucesso! Tenho certeza que vou aprender muita coisa para começar minha carreira como desenvolvedor.
+Curso muito bom! Sucesso! Tenho certeza que vou aprender muita coisa para iniciar minha carreira como desenvolvedor.
