@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito interessante! Curti bastante as metodologias ageis, dei uma bugadinha no git mas ja consegui me entender, as assincronas ate agora estao bem legais! E as sincronas são otimas e inspiradoras.
