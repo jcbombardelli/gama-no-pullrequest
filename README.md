@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou curtindo o curso, porém a aula de git foi muito acelerada e pouco detalhada, requerendo muita pesquisa externa.
