@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Achando ótimo, estou bastante animado com tudo que estou aprendendo!!
