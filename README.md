@@ -1,4 +1,4 @@
-# Desafio Gama Pullrequest
+﻿# Desafio Gama Pullrequest
 
 ## Faça o FORK deste projeto
 
@@ -17,5 +17,9 @@
 ## Abra um PullRequest com suas alterações
 
 O que estou achando do curso ?
+Sobre o curso entendo que estou fazendo mais do que aprender teoria
+essa obrigatoriedade de colocar a mão na massa está fazendo com que 
+eu aprenda muito mais rápido, realmente estou gostando dessa metodologia
+apesar dela me fazer quebrar a cabeça durante muito tempo.
 
 Muito interessante!
