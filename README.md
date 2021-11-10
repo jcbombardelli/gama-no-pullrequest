@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso de Git eu achei meio complicado de seguir se você for iniciante, ainda assim deu pra acompanhar depois de pesquisar um pouco na internet, e aprendi coisas novas, além de praticar.
