@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando bastante do curso, sempre gostei de programação, e a dinamica do curso de sempre estar praticando é otima para o desenvolvimento.
