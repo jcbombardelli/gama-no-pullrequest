@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso dev full stack do Gama esta sendo muito desafiador nesse início, principalmente o Git. Mas é muito bom quando temos pessoas a nossa volta que estão dispostas a nos ajudar e isso já me faz amar o grupo no qual estou. Sou grata a todos pela oportunidade.
