@@ -16,6 +16,10 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+Opnião sincerona sobre o curso do XP
 
-Muito interessante!
+Até o momento estou gostando bastante do curso. A plataforma para assistir as aulas é bem simples, fácil de entender e existe a possibilidade de aumentar a velocidade dos vídeos (que para mim, é algo MUITO importante).
+A comunicação feita pelo Slack é algo que ainda estou me adaptando, mas é muito bom já termos contato com uma plataforma que é muito utilizada dentro das empresas.
+Quanto ao curso de Git, especificamente, estou achando as aulas com um conteúdo um pouco raso. Para quem é iniciante nesta área ou quem esta fazendo transição de carreira e nunca teve contato com um prompt de comando é muito complicado acompanhar o que está acontecendo sem uma aula introdutoria sobre os comandos. Mesmo assim, prefiro ver isso como uma oportunidade para os futuros desenvolvedores treinarem a habilidade de "googlar".
+Para mim, que ja tinha uma base com o git e github, consegui aprender varios comandos diferentes e colocar a mão na prática de verdade.
+Daria para o curso de Git uma nota 7,5/10.
