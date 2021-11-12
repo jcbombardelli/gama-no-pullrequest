@@ -19,4 +19,4 @@
 O que estou achando do curso ?
 
 Muito interessante!
-Super motivador e interessante, 
+Super motivador e interessante.
