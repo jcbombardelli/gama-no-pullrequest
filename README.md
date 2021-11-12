@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou gostando muito! A Gama tem me surpreendido de maneira bem positiva nos últimos dias!
+Está melhor do que eu esperava! 
