@@ -17,5 +17,6 @@
 ## Abra um PullRequest com suas alterações
 
 O que estou achando do curso ?
-
-Muito interessante!
+Esse foi o curso de Git mais direto e efetivo que já vi disponível na internet. Simplesmente sensacional!
+-> Por Danilo Loose 
+-> Linkedin: https://www.linkedin.com/in/danilo-loose-46987a1ab/
