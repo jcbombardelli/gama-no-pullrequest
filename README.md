@@ -16,6 +16,10 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
+# O que estou achando do curso ?
 
-Muito interessante!
+O curso da Gama Academy até o momento tem sido gratificante, graças a excelente equipe que trás muita confiança e apoio aos alunes, e também a união que os próprios alunes tem tido desde o inicio do curso.
+
+As aulas são inspiradoras e estimulantes, outras desafiadoras... Como essa de Git! Haha
+
+O importante é não desistir, e se alguém estiver lendo isso, é porque eu consegui! \o/
