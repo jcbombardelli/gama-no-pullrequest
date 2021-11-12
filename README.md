@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Esse curso ampliou minha visão, que era bem básica, a respeito da utilização do Git para a minha visão profissional.
