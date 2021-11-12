@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Confuso para quem não tem conhecimento previo. Mas com o apoio da turma e de outros videos no youtube e afins estou compreendendo aos poucos.
