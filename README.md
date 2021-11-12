@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O curso de GIT possui uma dinâmica "direto ao ponto", onde vejo que pessoas que nunca tiveram contato
+com o mundo da programação ou nunca utlizaram o CMD podem sentir dificuldade no aprendizado, por outro lado,
+pessoas que já tem conhecimento prévio não sentirão dificuldades e se adequarão bem a dinâmica deste treinamento.
