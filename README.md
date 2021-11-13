@@ -1,4 +1,4 @@
-# Desafio Gama Pullrequest
+﻿# Desafio Gama Pullrequest
 
 ## Faça o FORK deste projeto
 
@@ -19,3 +19,13 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+## O que estou achando do curso? 
+
+Até o momento estou gostando bastante do curso, eu aprendi bastante coisas
+com cada um dos modulos, eu achei interessante o primeiro modulo de softskills
+e carreiras, por ser uma parte muito pouco explorada pelas pessoas e ser uma
+das mais importantes, tanto pela interação com as outras pessoas como também
+lidar conosco mesmo e com nossos pensamentos e medos. Já nos outros módulos,
+eu achei muito boa a didática e a forma como o conteúdo é passado, eu já havia
+estudo um pouco sobre desenvolvimento mas sempre tem algo novo para se aprender.
