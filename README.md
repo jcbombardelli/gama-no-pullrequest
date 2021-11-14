@@ -8,7 +8,7 @@
 
 #### Altere o arquivo README.MD e coloque suas impressões sobre este curso
 
-##### Faça o commit da sua altetação
+##### Faça o commit da sua alteração
 
 #### Execute o comando
 
@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+O HSM Coders e a Gama Academy entraram na minha vida no momento certo, estou migrando minha carreira e totalmente focado nos estudos!
+
+O curso está me ajudando muito e estou achando tudo muito interessante e muito bem desenvolvido!
