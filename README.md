@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Está sensacional até o meomento. Assuntos super relevantes e os 
+professores são otimos!
