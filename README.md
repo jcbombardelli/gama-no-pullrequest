@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Excelente curso, muito dinâmico e com conteúdos pertinentes, que orientam com informações aplicáveis ao mercado.
