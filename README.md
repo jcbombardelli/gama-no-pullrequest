@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou adorando aprender como mexer no github e ainda mais no terminal, pensava que era um bicho de 7 cabeças rs.
