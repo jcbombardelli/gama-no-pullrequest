@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
+Gostaria de mais monitoria e que as aulas tivem material de apoio.
+
 Muito interessante!
