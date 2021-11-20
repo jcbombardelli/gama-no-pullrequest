@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Apesar do curso ser curto, o conteúdo é essencial para quem está iniciando. Muito bom!
