@@ -17,5 +17,5 @@
 ## Abra um PullRequest com suas alterações
 
 O que estou achando do curso ?
-
+Esta bem dinamica com professor que entende e mostra de uma forma simples de como utilizar os comando, já tinha feito outros cursos, mas o que me chamou mais atenção foi a forma de demostrar na pratica a forma de corrigir conflito de códigos.
 Muito interessante!
