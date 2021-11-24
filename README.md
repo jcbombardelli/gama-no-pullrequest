@@ -19,3 +19,6 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+O curso de git e github está sendo bem interessante, pois além de didático é bastante
+objetivo. (Leonardo Costa)
