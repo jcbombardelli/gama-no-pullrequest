@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Massa demais até aqui, bora ver até onde vai...
