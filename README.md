@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Legal! Estava precisando aprender sobre git e github. 
