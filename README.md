@@ -1,4 +1,4 @@
-# Desafio Gama Pullrequest
+﻿# Desafio Gama Pullrequest
 
 ## Faça o FORK deste projeto
 
@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Estou Gostando muito, apesar de ter dificuldade em algumas coisas, principalmente no git, que a forma de utiização  a principio é complicada, não estava sabendo nem sair do arquivo,
+mas o curso em si é bem legal, a proposta é otima, resumidamente estou muito animado e com expectativas criadas.
