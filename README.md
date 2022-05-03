@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito interessante o curso, bem resumido, ajudado a agilizar o processo
+de aprendizado!! :)
