@@ -19,3 +19,6 @@
 O que estou achando do curso ?
 
 Muito interessante!
+Eu achei complicado no começo porém estou revendo a aula e parece que agora eu entendi bem o conceito
+de git e github 
+
