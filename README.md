@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+O curso é muito bom e os professores são execelentes.
