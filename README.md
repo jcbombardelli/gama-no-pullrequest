@@ -19,3 +19,4 @@
 O que estou achando do curso ?
 
 Muito interessante!
+Uma experiência incrível! Fora que é uma oportunidade gigante para quem quer mudar de carreira.
