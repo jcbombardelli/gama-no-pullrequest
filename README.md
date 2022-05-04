@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Estou adorando o curso! Além de absorver muito conhecimento, estou enriquecendo meu portfolio de projetos!
