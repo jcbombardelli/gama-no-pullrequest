@@ -19,3 +19,6 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Bom curso para aprender comandos. Rumo a NASA!!
+Cada dia revendo conceitos e novidades :rocket: !!
