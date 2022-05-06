@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Ótimo! E esperançosa com as oportunidades que pode me trazer. s2
