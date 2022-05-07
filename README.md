@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+Eu estou amando a didática da prof Hendy! Incrível! ;3 #HiringCoders#3
+
