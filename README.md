@@ -19,3 +19,8 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Excelente ^^ 
+Linkedin: https://www.linkedin.com/in/marcusvpa/ 
+GitHub: https://github.com/MarcusVPA 
+
