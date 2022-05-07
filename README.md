@@ -20,6 +20,7 @@ O que estou achando do curso ?
 
 Muito interessante!
 
-Excelente ^^
-https://www.linkedin.com/in/marcusvpa/
-https://github.com/MarcusVPA
+Excelente ^^ 
+https://www.linkedin.com/in/marcusvpa/ 
+https://github.com/MarcusVPA 
+
