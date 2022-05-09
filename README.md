@@ -19,3 +19,4 @@
 O que estou achando do curso ?
 
 Muito interessante!
+Estou adorando, eu só queria duas coisas agora: entender tudo sobre git e um milkshake com cookies
