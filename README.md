@@ -19,3 +19,4 @@
 O que estou achando do curso ?
 
 Muito interessante!
+Estou empolgadissíma com o curso, aprendendo bastante, os professores são muito qualificados e além do conteúdo passam dicas bem legais!
