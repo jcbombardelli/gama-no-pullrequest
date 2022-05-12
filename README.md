@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito interessante! Pois a professora Hendy tem uma didática objetiva, simples e clara. Ela explica passo a passo o que devemos fazer e mostra o que explicou, fazendo. Gostei muito das aulas dela.
+
+
