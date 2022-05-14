@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Superou minhas expectativas, além de ser possível perceber a preocupação com o desenvolvimento do aluno.
