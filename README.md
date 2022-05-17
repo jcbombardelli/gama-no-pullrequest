@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Curso sobre git precisa de atualização da solicitação de token
