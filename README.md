@@ -19,3 +19,5 @@
 O que estou achando do curso ?
 
 Muito interessante!
+
+Estou gostando bastante da formação da gama, estou aprendendo muito
